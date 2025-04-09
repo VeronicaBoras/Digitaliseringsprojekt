@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Internationella Kvinnoförbundet för Fred och Frihet Affischer</title>
+            <author corresp="#ES">Ellinor Sjöblom</author>
+            <author corresp="#VZ">Veronica Zander</author>
+            <author corresp="#KV">Kateryna Virko</author>
+            <author corresp="#NM">Nanna Meyer</author>
+            <principal></principal>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Borås Högskola</publisher>
+            <date>Maj 2025</date>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by-sa/4.0/">
+                  <p>
+                     Transcription distributed under a CC-BY-SA 4.0 license.
+                  </p>
+               </licence>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+               <p>Fyra stycken affischer från IKFF gällande upplysningskurser mellan 1927-1931.</p>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <surface xml:id="IMG_1679">
+         <figure>
+            <label>Upplysningskurs Göteborg 6-9 jan 1927</label>
+            <figDesc>
+               Ett fotografi av affischen angående kurs i Göteborg 1927.
+            </figDesc>
+            <graphic xml:id="IMG_1679.TIFF" url="/Users/elli/Documents/GitHub/Digitaliseringsprojekt/docs/assets/img/imgs%20TIFF/IMG_1679.TIFF"/>
+            <graphic xml:id="postit01_thumb" url="assets/img/documents/postit01_thumb.png"/>
+         </figure>
+      </surface>
+      <surface xml:id="postit02">
+         <figure>
+            <label>Post-It Back</label>
+            <figDesc>
+               A photograph of the back a post-it with a simple example phrase.
+            </figDesc>
+            <graphic xml:id="postit02_full" url="assets/img/documents/postit02.png"/>
+            <graphic xml:id="postit02_thumb" url="assets/img/documents/postit02_thumb.png"/>
+         </figure>
+      </surface>
+   </facsimile>
+   <text>
+      <body>
+         <div type="affisch" facs="#IMG_1679">
+            <head>
+               <hi rend="u">Upplysningskurs Göteborg 6-9 januari 1927</hi>
+            </head>
+            <p>
+               <l>Internationella Kvinnoförbundets för Fred och Frihet.</l>
+               <l><title>UPPLYSNINGSKURS</title></l>
+               <l>behandlande internationella problem och konflikter, som utgöra en fara</l>
+               <l>för freden och lägga hinder i vägen för ett förtroendefullt internationellt</l>
+               <l>samförstånd och samarbete,</l>
+               <l>i GÖTEBORG den 6-9 januari 1927.</l>
+               <l>Handelshögskolans lokaler, Läroverksgatan.</l>
+               <l>Torsdagen den 6 januari (Trettondagen):</l>
+               <l>Kl. 1 em. Inledningsföredrag Dr Poul Bjerre.</l>
+               <l>Kl. 2 „ Fredstankens utveckling under ett halvt årtu-</l>
+               <l>sende D:r Har Dayal.</l>
+               <l>Kl. 6 „  Fjärran Österns problem Borgmäst. Carl Lindhagen.</l>
+               <l>Kl. 8 „ Samkväm med föredrag — — — —</l>
+               <l>Fredagen den 7 januari:</l>
+               <l>Kl. 11 fm. Kolonialpolitiska motsatser före världskriget Prof. P. O. Gränström</l>
+               <l>Kl. 12 m. Rasproblemet och de vita folken Prof. O. Nordenskjöld.</l>
+               <l>Kl. 6 em. Den kolonialpolitiska situationen efter världs-</l>
+               <l>kriget Prof. P. O. Gränström</l>
+               <l>Kl. 7 „ Striden om olja och kol D:r Sigurd Hansson.</l>
+               <l>Kl. 8 „ Befolkningsfrågan och världens försörjnings-</l>
+               <l>möjligheter Prof. G. Westin Silverstolpe.</l>
+               <l>Lördagen den 8 januari:</l>
+               <l>Kl. 11 fm. Frihandel Red. Harry Hjörne.</l>
+               <l>Kl. 12 m. Den ekonomiska världskonferensen Generaldir. Anders Örne.</l>
+               <l>Kl. 6 em. Söderjyllands minioritetsproblem Fru Cederfeld de Simonsen, Danmark</l>
+               <l>Kl. 7 „ Det internationella trustväsendet och dess han-</l>
+               <l>delspolitiska konsekvenser Generaldir. Anders Örne.</l>
+               <l>Kl. 8 „ Europas förenade stater Assessor Carl Bonnevie, Norge</l>
+               <l>Söndagen den 9 januari:</l>
+               <l>Kl. 1 em. Pressens ställning till fredsproblemen D:r Alf Ahlberg.</l>
+               <l>Kl. 6 „ Kristendomen och freden Pastor Sigurd Westman.</l>
+               <l>Kl. 7 „ Nya uppgifter och arbetssätt för fredsorgani-</l>
+               <l>sationerna Fröken Math. Widegren.</l>
+               <l>Seriebiljetter à 4 kr., Dagsbiljetter à 1:50 kr. Biljetter till enstaka föredrag 50 öre. Anmälningar till kursen motta-</l> 
+               <l>gas tillsvidare av Göteborgskretsens sekreterare Fröken KARIN CARDELL, Hagtornsstigen 5, Göteborg.</l> 
+               <l>Program sändes på begäran.</l>
+               <l>Centraltryckeriet, O. Ericson, Göteborg.</l>
+            </p>
+         </div>
+         <div type="page" facs="#postit02">
+         <p>
+            The back
+            <lb/>of my
+            <lb/>Post-it
+         </p>
+      </div>
+      </body>
+   </text>
+</TEI>
