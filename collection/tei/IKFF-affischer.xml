@@ -14,9 +14,9 @@
             <publisher>Centraltryckeriet, O. Ericson, Göteborg.</publisher>
             <date>1927</date>
             <availability>
-               <licence target="https://creativecommons.org/licenses/by-sa/4.0/">
+               <licence>
                   <p>
-                     Transcription distributed under a CC-BY-SA 4.0 license.
+                     
                   </p>
                </licence>
             </availability>
@@ -45,54 +45,58 @@
             <head>Upplysningskurs Göteborg 6-9 januari 1927</head>
          </div>
          <div type="section">
-            <head><orgName>Internationella Kvinnoförbundets för Fred och Frihet.</orgName></head><lb/>
+            <head><orgName><hi rend="underscore">Internationella Kvinnoförbundets för Fred och Frihet.</hi></orgName></head><lb/>
          <div/>
          <div type="section">
-               <head>UPPLYSNINGSKURS</head><lb/>
+               <head><hi rend="underscore"><hi rend="bold">UPPLYSNINGSKURS</hi></hi></head><lb/>
                <p>behandlande internationella problem och konflikter, som utgöra en fara<lb/>
                för freden och lägga hinder i vägen för ett förtroendefullt internationellt<lb/>
                samförstånd och samarbete,<lb/>
-               i GÖTEBORG den 6-9 januari 1927.<lb/>
-               Handelshögskolans lokaler, Läroverksgatan.<lb/></p>
+               <hi rend="bold">i <placeName>GÖTEBORG</placeName> den <date from="1927-01-06" to="1927-01-09">6-9 januari 1927.</date></hi><lb/>
+                  <hi rend="small"><hi rend="italics"><placeName>Handelshögskolans lokaler</placeName>, <seg type="address">Läroverksgatan</seg>.</hi></hi><lb/></p>
          </div>
          <div type="section">
-               <p>Torsdagen den 6 januari (Trettondagen):<lb/>
-               Kl. 1 em. Inledningsföredrag Dr Poul Bjerre.<lb/>
-               Kl. 2 „ Fredstankens utveckling under ett halvt årtu-<lb/>
-               sende D:r Har Dayal.<lb/>
-               Kl. 6 „  Fjärran Österns problem Borgmäst. Carl Lindhagen.<lb/>
-               Kl. 8 „ Samkväm med föredrag — — — —<lb/></p>
+               <head><hi rend="bold"><date when="1927-01-06">Torsdagen den 6 januari</date></hi> (Trettondagen)<hi rend="bold">:</hi></head>
+               <list type="ordered">
+               <item><time when="13:00:00">Kl. 1 em.</time> Inledningsföredrag <hi rend="italics">Dr Poul Bjerre.</hi></item>
+               <item><time when="14:00:00">Kl. 2 „</time> Fredstankens utveckling under ett halvt årtu-<lb/>
+               sende <hi rend="italics">D:r Har Dayal.</hi></item>
+               <item><time when="18:00:00">Kl. 6 „</time>  Fjärran Österns problem Borgmäst. <ptr target="https://sv.wikipedia.org/wiki/Carl_Lindhagen"></ptr><hi rend="italics">Carl Lindhagen.</hi></item>
+               <item><time when="20:00:00">Kl. 8 „</time> Samkväm med föredrag — — — —</item></list>
          </div>
          <div type="section">
-               <p>Fredagen den 7 januari:<lb/>
-               Kl. 11 fm. Kolonialpolitiska motsatser före världskriget Prof. P. O. Gränström<lb/>
-               Kl. 12 m. Rasproblemet och de vita folken Prof. O. Nordenskjöld.<lb/>
-               Kl. 6 em. Den kolonialpolitiska situationen efter världs-<lb/>
-               kriget Prof. P. O. Gränström<lb/>
-               Kl. 7 „ Striden om olja och kol D:r Sigurd Hansson.<lb/>
-               Kl. 8 „ Befolkningsfrågan och världens försörjnings-<lb/>
-               möjligheter Prof. G. Westin Silverstolpe.<lb/></p>
+               <head><hi rend="bold"><date when="1927-01-07">Fredagen den 7 januari:</date></hi></head>
+               <list type="ordered">
+               <item><time when="11:00:00">Kl. 11 fm.</time> Kolonialpolitiska motsatser före världskriget <hi rend="italics">Prof. P. O. Gränström.</hi></item>
+               <item><time when="12:00:00">Kl. 12 m.</time> Rasproblemet och de vita folken <hi rend="italics">Prof. O. Nordenskjöld.</hi></item>
+               <item><time when="18:00:00">Kl. 6 em.</time> Den kolonialpolitiska situationen efter världs-<lb/>
+               kriget <hi rend="italics">Prof. P. O. Gränström.</hi></item>
+               <item><time when="19:00:00">Kl. 7 „</time> Striden om olja och kol <hi rend="italics">D:r Sigurd Hansson.</hi></item>
+               <item><time when="20:00:00">Kl. 8 „</time> Befolkningsfrågan och världens försörjnings-
+               möjligheter <hi rend="italics">Prof. G. Westin Silverstolpe.</hi></item></list>
          </div>
          <div type="section">
-               <p>Lördagen den 8 januari:<lb/>
-               Kl. 11 fm. Frihandel Red. Harry Hjörne.<lb/>
-               Kl. 12 m. Den ekonomiska världskonferensen Generaldir. Anders Örne.<lb/>
-               Kl. 6 em. Söderjyllands minioritetsproblem Fru Cederfeld de Simonsen, Danmark<lb/>
-               Kl. 7 „ Det internationella trustväsendet och dess han-<lb/>
-               delspolitiska konsekvenser Generaldir. Anders Örne.<lb/>
-               Kl. 8 „ Europas förenade stater Assessor Carl Bonnevie, Norge<lb/></p>
+               <head><hi rend="bold"><date when="1927-01-08">Lördagen den 8 januari</date>:</hi></head>
+               <list type="ordered">
+               <item><time when="11:00:00">Kl. 11 fm.</time> Frihandel <hi rend="italisc">Red. Harry Hjörne.</hi></item>
+               <item><time when="12:00:00">Kl. 12 m.</time> Den ekonomiska världskonferensen <hi rend="italics">Generaldir. Anders Örne.</hi></item>
+               <item><time when="18:00:00">Kl. 6 em.</time> Söderjyllands minioritetsproblem <hi rend="italics">Fru Cederfeld de Simonsen, <hi rend="smaller">Danmark.</hi></hi></item>
+               <item><time when="19:00:00">Kl. 7 „</time> Det internationella trustväsendet och dess han-<lb/>
+               delspolitiska konsekvenser <hi rend="italics">Generaldir. Anders Örne.</hi></item>
+                  <item><time when="20:00:00">Kl. 8 „</time> Europas förenade stater <hi rend="italics">Assessor Carl Bonnevie, <hi rend="smaller">Norge.</hi></hi></item></list>
          </div>
          <div type="section">
-               <p>Söndagen den 9 januari:<lb/>
-               Kl. 1 em. Pressens ställning till fredsproblemen D:r Alf Ahlberg.<lb/>
-               Kl. 6 „ Kristendomen och freden Pastor Sigurd Westman.<lb/>
-               Kl. 7 „ Nya uppgifter och arbetssätt för fredsorgani-<lb/>
-               sationerna Fröken Math. Widegren.<lb/></p>
+               <head><hi rend="bold"><date when="1927-01-09">Söndagen den 9 januari</date>:</hi></head>
+               <list type="ordered">
+                  <item><time when="13:00:00">Kl. 1 em.</time> Pressens ställning till fredsproblemen <ptr target="https://sv.wikipedia.org/wiki/Alf_Ahlberg"></ptr><hi rend="italics">D:r Alf Ahlberg.</hi></item>
+               <item><time when="18:00:00">Kl. 6 „</time> Kristendomen och freden <hi rend="italics">Pastor Sigurd Westman.</hi></item>
+               <item><time when="19:00:00">Kl. 7 „</time> Nya uppgifter och arbetssätt för fredsorgani-<lb/>
+                  sationerna <ptr target="https://sv.wikipedia.org/wiki/Matilda_Widegren"></ptr><hi rend="italics">Fröken Math. Widegren.</hi></item></list>
          </div>
          <div type="section">
                <p>Seriebiljetter à 4 kr., Dagsbiljetter à 1:50 kr. Biljetter till enstaka föredrag 50 öre. Anmälningar till kursen motta-<lb/> 
-               gas tillsvidare av Göteborgskretsens sekreterare Fröken KARIN CARDELL, Hagtornsstigen 5, Göteborg.<lb/> 
-               Program sändes på begäran.<lb/></p>
+               gas tillsvidare av <orgName>Göteborgskretsens</orgName> sekreterare Fröken KARIN CARDELL, <seg type="address">Hagtornsstigen 5</seg>, <placeName>Göteborg</placeName>.<lb/> 
+               Program sändes på begäran.</p>
          </div>
          <div type="section">
             <p><hi rend="small"><orgName>Centraltryckeriet, O. Ericson</orgName>, <placeName>Göteborg</placeName>.</hi><lb/></p>
