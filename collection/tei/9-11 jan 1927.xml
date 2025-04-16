@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Upplysningskurs Göteborg 6-9 januari 1927</title>
+            <author corresp="https://ikff.se/">Internationella Kvinnoförbundet för Fred och
+               Frihet</author>
+            <principal></principal>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Centraltryckeriet, O. Ericson, Göteborg.</publisher>
+            <date>1927</date>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by-sa/4.0/">
+                  <p> Transcription distributed under a CC-BY-SA 4.0 license. </p>
+               </licence>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Affischen marknadsför Internationella Kvinnoförbundets upplysningskurs som
+                  hölls i Göteborg den 9-11 januari 1927.
+                  Affischen är framtagen av Internationella Kvinnoförbundet för Fred och Frihet och
+                  utgör en del av föreningens arkiv vid Humnanistiska biblioteket i Göteborg. Ansvarig
+                  för Internationella Kvinnoförbundets arkiv vid Humanistisska biblioteket är
+                  KvinnSam.</p>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="swe">Swedish</language>
+         </langUsage>
+         <textDesc>
+            <channel>print</channel>
+            <constitution>single</constitution>
+            <derivation>original</derivation>
+            <domain type="publicity">poster</domain>
+            <factuality>factual</factuality>
+            <interaction type="complete"/>
+            <preparedness>prepared</preparedness>
+            <purpose>informative</purpose>
+         </textDesc>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <surface xml:id="IMG_1679">
+         <figure>
+            <label>Upplysningskurs Göteborg 6-9 jan 1927</label>
+            <figDesc>
+               Ett fotografi av en affisch framtagen Internationella Kvinnoförbundets
+               som marknadsförde deras upplysningskurs i Göteborg 9-11 januari 1927.
+            </figDesc>
+            <graphic xml:id="IMG_1679.TIFF" url="/Users/elli/Documents/GitHub/Digitaliseringsprojekt/docs/assets/img/imgs%20TIFF/IMG_1679.TIFF"/>
+         </figure>
+      </surface>
+   </facsimile>
+   <text>
+      <body>
+         <div type="section">
+            <head>Upplysningskurs Göteborg 6-9 januari 1927</head>
+         </div>
+         <div type="section">
+            <head><orgName><hi rend="underscore">Internationella Kvinnoförbundets för Fred och Frihet.</hi></orgName></head>
+         <div/>
+         <div type="section">
+               <head><hi rend="underscore"><hi rend="bold">UPPLYSNINGSKURS</hi></hi></head>
+               <p><hi rend="bold">behandlande internationella problem och konflikter, som utgöra en fara<lb/>
+               för freden och lägga hinder i vägen för ett förtroendefullt internationellt<lb/>
+               samförstånd och samarbete,<lb/></hi></p>
+         </div>
+         <div type="section">
+            <head rend="align(center)"><hi rend="bold">i <placeName>GÖTEBORG</placeName> den <date from="1927-01-06" to="1927-01-09">6-9 januari 1927.</date></hi></head>
+            <p><hi rend="small"><hi rend="italics"><placeName>Handelshögskolans lokaler</placeName>, <seg type="address">Läroverksgatan</seg>.</hi></hi></p>
+         </div>
+         <div type="section">
+               <head rend="align(center)"><hi rend="bold"><date when="1927-01-06">Torsdagen den 6 januari</date></hi> (Trettondagen)<hi rend="bold">:</hi></head>
+               <list type="ordered">
+                  <item><time when="13:00:00">Kl. 1 em.</time> Inledningsföredrag <ref target="https://sv.wikipedia.org/wiki/Poul_Bjerre"><hi rend="italics">Dr Poul Bjerre.</hi></ref><lb/></item>
+               <item><time when="14:00:00">Kl. 2 „</time> Fredstankens utveckling under ett halvt årtu-<lb/>
+                  sende <ref target="https://en.wikipedia.org/wiki/Har_Dayal"><hi rend="italics">D:r Har Dayal.</hi></ref><lb/></item>
+               <item><time when="18:00:00">Kl. 6 „</time>  Fjärran Österns problem Borgmäst. <ref target="https://sv.wikipedia.org/wiki/Carl_Lindhagen"><hi rend="italics">Carl Lindhagen.</hi></ref><lb/></item>
+               <item><time when="20:00:00">Kl. 8 „</time> Samkväm med föredrag — — — —</item><lb/></list>
+         </div>
+         <div type="section">
+               <head rend="align(center)"><hi rend="bold"><date when="1927-01-07">Fredagen den 7 januari:</date></hi></head>
+               <list type="ordered">
+                  <item><time when="11:00:00">Kl. 11 fm.</time> Kolonialpolitiska motsatser före världskriget <ref target="https://sv.wikipedia.org/wiki/Peter_Olof_Gr%C3%A4nstr%C3%B6m"><hi rend="italics">Prof. P. O. Gränström.</hi></ref><lb/></item>
+                  <item><time when="12:00:00">Kl. 12 m.</time> Rasproblemet och de vita folken <ref target="https://sv.wikipedia.org/wiki/Otto_Nordenskj%C3%B6ld"><hi rend="italics">Prof. O. Nordenskjöld.</hi></ref><lb/></item>
+               <item><time when="18:00:00">Kl. 6 em.</time> Den kolonialpolitiska situationen efter världs-<lb/>
+                  kriget <ref target="https://sv.wikipedia.org/wiki/Peter_Olof_Gr%C3%A4nstr%C3%B6m"><hi rend="italics">Prof. P. O. Gränström.</hi></ref><lb/></item>
+                  <item><time when="19:00:00">Kl. 7 „</time> Striden om olja och kol <ref target="https://sv.wikipedia.org/wiki/Sigurd_Hansson_(journalist)"><hi rend="italics">D:r Sigurd Hansson.</hi></ref><lb/></item>
+               <item><time when="20:00:00">Kl. 8 „</time> Befolkningsfrågan och världens försörjnings-<lb/>
+                  möjligheter <ref target="https://sv.wikipedia.org/wiki/Gunnar_Westin_Silverstolpe"><hi rend="italics">Prof. G. Westin Silverstolpe.</hi></ref></item><lb/></list>
+         </div>
+         <div type="section">
+               <head rend="align(center)"><hi rend="bold"><date when="1927-01-08">Lördagen den 8 januari</date>:</hi></head>
+               <list type="ordered">
+                  <item><time when="11:00:00">Kl. 11 fm.</time> Frihandel <ref target="Red. Harry Hjörne"><hi rend="italisc">Red. Harry Hjörne.</hi></ref><lb/></item>
+                  <item><time when="12:00:00">Kl. 12 m.</time> Den ekonomiska världskonferensen <ref target="https://sv.wikipedia.org/wiki/Anders_%C3%96rne"><hi rend="italics">Generaldir. Anders Örne.</hi></ref><lb/></item>
+               <item><time when="18:00:00">Kl. 6 em.</time> Söderjyllands minioritetsproblem <hi rend="italics">Fru Cederfeld de Simonsen, <hi rend="smaller">Danmark.</hi></hi><lb/></item>
+               <item><time when="19:00:00">Kl. 7 „</time> Det internationella trustväsendet och dess han-<lb/>
+                  delspolitiska konsekvenser <ref target="https://sv.wikipedia.org/wiki/Anders_%C3%96rne"><hi rend="italics">Generaldir. Anders Örne.</hi></ref><lb/></item>
+                  <item><time when="20:00:00">Kl. 8 „</time> Europas förenade stater <ref target="https://sv.wikipedia.org/wiki/Carl_Bonnevie"><hi rend="italics">Assessor Carl Bonnevie</hi></ref>, <hi rend="italics"><hi rend="smaller">Norge.</hi></hi></item><lb/></list>
+         </div>
+         <div type="section">
+               <head rend="align(center)"><hi rend="bold"><date when="1927-01-09">Söndagen den 9 januari</date>:</hi></head>
+               <list type="ordered">
+                  <item><time when="13:00:00">Kl. 1 em.</time> Pressens ställning till fredsproblemen <ref target="https://sv.wikipedia.org/wiki/Alf_Ahlberg"></ref><hi rend="italics">D:r Alf Ahlberg.</hi><lb/></item>
+                  <item><time when="18:00:00">Kl. 6 „</time> Kristendomen och freden <ref target="https://sv.wikipedia.org/wiki/Sigurd_Westman"><hi rend="italics">Pastor Sigurd Westman.</hi></ref><lb/></item>
+               <item><time when="19:00:00">Kl. 7 „</time> Nya uppgifter och arbetssätt för fredsorgani-<lb/>
+                  sationerna <ref target="https://sv.wikipedia.org/wiki/Matilda_Widegren"></ref><hi rend="italics">Fröken Math. Widegren.</hi></item><lb/></list>
+         </div>
+         <div type="section">
+               <p>Seriebiljetter à <measure type="currency">4 kr</measure>., Dagsbiljetter à <measure type="currency">1:50 kr</measure>. Biljetter till enstaka föredrag <measure type="currency">50 öre</measure>. Anmälningar till kursen motta-<lb/> 
+               gas tillsvidare av <orgName>Göteborgskretsens</orgName> sekreterare <persName>Fröken KARIN CARDELL</persName>, <seg type="address">Hagtornsstigen 5</seg>, <placeName>Göteborg</placeName>.<lb/> 
+               Program sändes på begäran.</p>
+         </div>
+         <div type="section">
+            <p><hi rend="small"><orgName>Centraltryckeriet, O. Ericson</orgName>, <placeName>Göteborg</placeName>.</hi><lb/></p>
+         </div>
+         </div>
+      </body>
+   </text>
+</TEI>
