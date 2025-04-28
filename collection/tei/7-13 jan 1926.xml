@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Upplysningskurs Stockholm 7-13 januari 1926</title>
+            <author corresp="https://ikff.se/">Internationella Kvinnoförbundet för Fred och
+               Frihet</author>
+            <principal></principal>
+         </titleStmt>
+         <publicationStmt>
+            <publisher> Oskar Eklunds Boktryckeri, Stockholm</publisher>
+            <date>1926</date>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by-sa/4.0/">
+                  <p> Transcription distributed under a CC-BY-SA 4.0 license. </p>
+               </licence>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Affischen marknadsför Internationella Kvinnoförbundets upplysningskurs som
+                  hölls i Stockholm den 7-13 januari 1926.
+                  Affischen är framtagen av Internationella Kvinnoförbundet för Fred och Frihet och
+                  utgör en del av föreningens arkiv vid Humnanistiska biblioteket i Göteborg. Ansvarig
+                  för Internationella Kvinnoförbundets arkiv vid Humanistisska biblioteket är
+                  KvinnSam.</p>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="swe">Swedish</language>
+         </langUsage>
+         <textDesc>
+            <channel>print</channel>
+            <constitution>single</constitution>
+            <derivation>original</derivation>
+            <domain type="publicity">poster</domain>
+            <factuality>factual</factuality>
+            <interaction type="complete"/>
+            <preparedness>prepared</preparedness>
+            <purpose>informative</purpose>
+         </textDesc>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <surface xml:id="IMG_1679">
+         <figure>
+            <label>Upplysningskurs Stockholm 7-13 jan 1926</label>
+            <figDesc>
+               Ett fotografi av en affisch framtagen Internationella Kvinnoförbundets
+               som marknadsförde deras upplysningskurs i Stockholm 7-13 januari 1926.
+            </figDesc>
+            <graphic xml:id="IMG_1679.TIFF" url="/Users/elli/Documents/GitHub/Digitaliseringsprojekt/docs/assets/img/imgs%20TIFF/IMG_1679.TIFF"/>
+         </figure>
+      </surface>
+   </facsimile>
+   <text>
+      <body>
+         <div type="section">
+            <head>Upplysningskurs Stockholm 7-13 januari 1926</head>
+         </div>
+         <div type="section">
+            <head><orgName><hi rend="underscore">Internationella Kvinnoförbundets för Fred och Frihet.</hi></orgName></head>
+         <div/>
+         <div type="section">
+               <head><hi rend="underscore"><hi rend="bold">UPPLYSNINGSKURS</hi></hi></head>
+            <p><hi rend="bold">behandlande de politiska, ekonomiska, sociala och etiska<lb/>
+               faktorernas betydelse för världsfred och folkförsoning,<lb/></hi></p>
+         </div>
+         <div type="section">
+                  <head rend="align(center)"><hi rend="bold">i <placeName>Stockholm</placeName> den <date from="1926-01-07" to="1926-01-13">7-13 januari 1926</date>,<lb/></hi></head>
+         </div>
+         <div type="section">
+            <head rend="align(center)"><hi rend="bold"><placeName>LÄKARESÄLLSKAPET</placeName> <seg type="address">KLARA ÖSTRA KYRKOGATA 10</seg> </hi></head>
+            <p><hi rend="small">såvitt ej annat nedan angives.</hi></p>
+         </div>
+         <div type="section">
+            <head><hi rend="bold">Föredrag och diskussion <time from="10:00:00" to="13:00:00">kl. 10 f. m. — 1 e. m.</time> samt <time from="14:30:00" to="17:00:00">kl. 2,30—5 e. m.</time></hi></head>
+            <p><hi rend="align(center)">Inledningsanförande av Excellensen Sandler.</hi></p>
+         </div>
+         <div type="section">
+            <head><date when="1927-01-07">Torsd. 7 jan.</date> <eventName>Skapandet av en ny mentalitet</eventName>.</head>
+            <p><hi rend="align(center)"><hi rend="small">Lektor W. Carlgren, lektor Th. Blomqvist, <ref target="https://sv.wikipedia.org/wiki/Paul_Sandegren">pastor Paul Sandegren</ref>, rektor G. Ekelöf, <ref target="https://sv.wikipedia.org/wiki/Maikki_Friberg">d:r Maikki<lb/> 
+                     Friberg</ref>, <ref target="https://sv.wikipedia.org/wiki/Honorine_Hermelin">rektor Honorine Hermelin</ref>.<lb/></hi></hi></p>
+         </div>
+         <div type="section">
+            <head><date when="1926-01-08">Fred. 8 Jan.</date> <eventName>Nationernas Förbund</eventName>.</head>
+            <p><hi rend="align(center)"><hi rend="small"><ref target="https://sv.wikipedia.org/wiki/Anna_Bugge-Wicksell">Fru A. Wicksell</ref>, <ref target="https://sv.wikipedia.org/wiki/Erik_Boheman">legationssekr. E. Boheman</ref>, <ref target="https://sv.wikipedia.org/wiki/Henni_Forchhammer">fröken Henni Forchhammer</ref>, <ref target="https://sv.wikipedia.org/wiki/Kristine_Bonnevie">prof. Kristine Bonnevie</ref>.<lb/> 
+                     <eventName>Internationell politisk högskola</eventName>, <ref target="https://sv.wikipedia.org/wiki/Robert_B%C3%A1r%C3%A1ny">prof. R. Bárány</ref>. <eventName>Studenternas hjälparbete och folkförsoningen</eventName>,<lb/> 
+                     fröken Stanny v. Engeström.<lb/></hi></hi></p>
+            <p><hi rend="align(center)"><hi rend="small"></hi>AFTONMÖTE <time when="20:00:00">kl. 8 e. m.</time> i <placeName>K. F. U. M:s hörsal</placeName>. Red. A. Engberg, med. kand. B. von Friesen.</hi></p>
+         </div>
+         <div type="section">
+            <head><date when="1926-01-09">Lörd. 8 jan.</date> Lokal:<placeName> Stockholms Stadshus, Rådsalen.</placeName></head>
+            <p><hi rend="align(center)"><hi rend="small"><eventName>Parlamenten och freden</eventName>, baron Th. Adelswärd.<lb/>
+                     <eventName>Rättsmoralen i det offentliga livet</eventName>, rektor A. Dam.<lb/></hi></hi></p>
+            <p><hi rend="align(center)"><hi rend="small">AFTONMÖTE <time when="20:00:00">kl. 8 e. m.</time> i <placeName>K. F. U. M:s hörsal</placeName>. <eventName>Nya strömningar i modern skönlitteratur</eventName> i Frankrike,<lb/> 
+                     <ref target="https://sv.wikipedia.org/wiki/Marika_Stiernstedt">Marika Stjernstedt</ref>, i England, <ref target="https://sv.wikipedia.org/wiki/Ivan_Pauli">Ivan Pauli</ref>.</hi></hi></p>
+         </div>
+         <div type="section">
+            <head><date when="1926-01-11">Månd. 11 jan.</date> <eventName>Fred inom näringslivet</eventName>.</head>
+            <p><hi rend="align(center)"><hi rend="small"><ref target="https://sv.wikipedia.org/wiki/Rolf_R:son_Sohlman">Kommerserådet R. Sohlman</ref>, kassör J. O. Johansson, d:r H. Nordenson, <ref target="https://sv.wikipedia.org/wiki/Karl_Petander">rektor K. Petander</ref>, under-<lb/> 
+                     visningsrådet N. Fredriksson.</hi></hi></p>
+            <p><hi rend="align(center)"><hi rend="small">AFTONMÖTE <time when="20:00:00">kl. 8 e. m.</time> <eventName>Pressens uppgift vid skapandet av en ny mentalitet.</eventName> D:r V. Söderberg, fru<lb/> 
+                     <ref target="https://sv.wikipedia.org/wiki/Elin_W%C3%A4gner">E. Wägner</ref>.</hi></hi></p>
+         </div>
+            <div type="section">
+               <head ><date when="1926-01-12">Tisd. 12 jan.</date> <eventName>De ekonomiska faktorerna och världsfreden</eventName>.</head>
+               <p><hi rend="align(center)"><hi rend="small">Prof. S. Brisman, <ref target="https://sv.wikipedia.org/wiki/Knut_Wicksell">prof. K. Wicksell</ref>, <ref target="https://sv.wikipedia.org/wiki/Eli_Heckscher">prof. E. Heckscher</ref>, herr E. Langlet.</hi></hi></p>
+                </div>
+            <div type="section">
+               <head><date when="1926-01-13">Onsd. 13 jan.</date> <eventName>Internationellt fredsarbete</eventName>.</head>
+               <p><hi rend="align(center)"><hi rend="small"><ref target="https://sv.wikipedia.org/wiki/Anna_Lindhagen_(politiker)">Anna Lindhagen</ref>, <ref target="https://sv.wikipedia.org/wiki/Thora_Daugaard">Thora Daugaard</ref>, Danmark, <ref target="https://sv.wikipedia.org/wiki/Martha_Larsen_Jahn">Martha Larsen-Jahn</ref>, Norge, <ref target="https://sv.wikipedia.org/wiki/Matilda_Widegren">Matilda Widegren</ref>, Sverige,<lb/> 
+                        Maikki Friberg, Finland.</hi></hi></p>
+            </div>
+         <div type="section">
+            <p>Anmälningar mottagas <time from="12:00:00" to="16:00:00">kl. 12—4 e. m.</time> å <orgName>Internationella Kvinnoförbundets byrå</orgName>, <seg type="address">David Bagaresgata 9-11</seg>, 2 tr., samt<lb/> 
+               vid ingången. Kursavgift <measure type="currency">6 kr</measure>. Dagsbiljett <measure type="currency">kr. 1:25</measure>, halvdagsbiljett <measure type="currency">75 öre</measure>. Biljetter till aftonmötena à <measure type="currency">75 öre</measure> tillhanda-<lb/> 
+               hållas även hos <orgName>Dagens Nyheter</orgName>, <seg type="address">Stureplan 13</seg> och <seg type="address">Hornsgatan 1</seg>, <orgName>Svenska Dagbladets Depeschbyrå</orgName>, <seg type="address">Birger Jarlsgatan 10</seg>,<lb/> 
+               <orgName>Allmänna Tidningskontoret</orgName>, <placeName>Gust. Ad. Torg</placeName>, i Cigarraffären, <seg type="address">Tunnelgatan 19</seg>, samt vid ingången.</p>
+         </div>
+         <div type="section">
+            <p><hi rend="small"><orgName>OSKAR EKLUNDS BOKTR.</orgName><lb/>
+                     <placeName>STOCKHOLM</placeName></hi></p>
+         </div>
+         </div>
+      </body>
+   </text>
+</TEI>
