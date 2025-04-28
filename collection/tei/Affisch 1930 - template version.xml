@@ -1,0 +1,324 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:dcterms="http://purl.org/dc/terms/"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Digitaliserad version av Kvinnoförbundet för Fred och Frihets affisch som distrubierades i samband med förbundets Sjätte Upplysningskurs</title>
+            <author corresp="https://ikff.se/">Internationella Kvinnoförbundet för Fred och
+               Frihet</author>
+            <principal>Veronica Zander</principal>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Borås Högskola</publisher>
+            <authority>Gruppen</authority>
+            <date when="2025-04-16">2025</date>
+            <availability>
+               <p>Vid publicering skall  ...</p>
+               <licence target="https://creativecommons.org/licenses/by-sa/4.0/">
+                  <p>Affischen är författad av Internationella Kvinnoförbundet för Fred och Frihet
+                     (1931). Transkriptionen är licenserad under CC-BY-SA 4.0. </p>
+               </licence>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <title>Sjätte Upplysningskursen</title>
+               <author>Internationella Kvinnoförbundet för Fred och Frihet</author>
+               <pubPlace>Stockholm</pubPlace>
+               <publisher>Oskar Eklunds boktryckeri.</publisher>
+               <date when="1930">1929</date>
+               <note>Affischen marknadsför Internationella Kvinnoförbundets sjätte upplysningskurs
+                  som hölls i Stockholm den 7-9 januari 1930 januari samt i Uppsala den 10-11
+                  januari 1930. Affischen är framtagen av Internationella Kvinnoförbundet för Fred
+                  och Frihet och utgör en del av föreningens arkiv som förvaras i Humnanistiska biblioteket i
+                  Göteborg. Ansvarig för Internationella Kvinnoförbundets arkiv vid Humanistiska
+                  biblioteket är KvinnSam.</note>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <p>Texten har extraherats genom OCR, optisk teckenigenkänning. Kodningen omfattar såväl textens lexikala information såväl som layout där 
+            radbrytningar, halvrader, fetstil, understrykningar samt skillnader i textstorlek kodats. De olika typsnitt och teckekstorlekar som förekommer
+            har dock inte beaktats</p>
+      </encodingDesc>
+      <xenoData>
+         <rdf:RDF>
+            <rdf:description rdf:about="">
+               <dcterms:title>Sjätte Upplysningskursen</dcterms:title>
+               <dcterms:Description>Affisch som marknadsför Internationella Kvinnoförbundets sjätte
+                  upplysningskurs som hölls i Stockholm den 7-9 januari 1930 januari samt i Uppsala
+                  den 10-11 januari 1930.</dcterms:Description>
+               <dcterms:type>affisch</dcterms:type>
+               <dcterms:format></dcterms:format>
+               <dcterms:creator>Internationella Kvinnoförbundet för Fred och
+                  Frihet</dcterms:creator>
+               <dcterms:isVersionOf>Tryck</dcterms:isVersionOf>
+               <dcterms:temporal>7 till 9 januari 1930</dcterms:temporal>
+               <dcterms:spatial>Stockholm, Uppsala</dcterms:spatial>
+               <dcterms:references>Oskar Eklunds boktryckeri.</dcterms:references>
+               <dcterms:references/>
+            </rdf:description> <rdf:description rdf:about=""> </rdf:description>
+         </rdf:RDF>
+      </xenoData>
+      <profileDesc>
+         <langUsage>
+            <language ident="swe">Swedish</language>
+         </langUsage>
+         <textDesc>
+            <channel>"tryck"</channel>
+            <constitution>"affisch"</constitution>
+            <derivation>"primärkälla"</derivation>
+            <domain type="publicity">publik</domain>
+            <factuality>"faktuell"</factuality>
+            <interaction type="none">"envägskommunikation</interaction>
+            <preparedness>"planerad"</preparedness>
+            <purpose>"informera"</purpose>
+         </textDesc>
+         <textClass>
+            <keywords scheme="https://id.kb.se/term/sao/">
+               <list>
+                  <item><ref target="https://id.kb.se/term/gmgpc/swe/Textaffischer"
+                        >textaffischer</ref>
+                  </item>
+                  <item><ref target="https://id.kb.se/term/sao/Affischer">affischer</ref>
+                  </item>
+                  <item><ref target="https://id.kb.se/term/sao/Kvinnof%C3%B6rbund"
+                        >kvinnoförbund</ref>
+                  </item>
+                  <item><ref target="https://id.kb.se/term/sao/Kvinnof%C3%B6reningar"
+                        >kvinnoföreningar</ref>
+                  </item>
+                  <item><ref target="https://id.kb.se/term/sao/Kvinnor%C3%B6relsen--historia"
+                        >kvinnorörelsen--historia</ref>
+                  </item>
+                  <item><ref target="https://id.kb.se/term/sao/Kvinnor%C3%B6relsen"
+                        >kvinnorörelsen</ref>
+                  </item>
+                  <item><ref target="https://id.kb.se/term/sao/Kvinnohistoria">kvinnohistoria</ref>
+                  </item>
+                  <item><ref target="https://id.kb.se/term/sao/Kvinnor%20och%20fred">kvinnor och
+                        fred</ref>
+                  </item>
+                  <item><ref target="https://id.kb.se/term/sao/Fredsr%C3%B6relser"
+                        >fredsrörelser</ref>
+                  </item>
+                  <item><ref target="https://id.kb.se/term/sao/Fredsbyggande"
+                        >fredsbyggande</ref>
+                  </item>
+                  <item><ref target="https://id.kb.se/term/sao/Frivilligorganisationer"
+                        >frivilligorganisationer</ref>
+                  </item>
+                  <item><ref target="https://id.kb.se/term/sao/V%C3%A4rldsorganisation"
+                        >världsorganisation</ref>
+                  </item>
+                  <item><ref target="https://id.kb.se/term/sao/Internationella%20organisationer"
+                        >internationella organisationer</ref>
+                  </item>
+               </list>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change when="2025-04-28">Originalversion upprättad</change>
+      </revisionDesc>
+   </teiHeader>
+   <facsimile>
+      <surface xml:id="postit01">
+         <figure>
+            <label>Upplysningskurs i Stockholm-Uppsala den 7—11 januari 1930</label>
+            <figDesc> Ett fotografi som föreställer den affisch Internationella Kvinnoförundet tog
+               fram för att marknadsföra förbundets sjätte upplysningskurs som hölls i
+               Stockholm-Uppsala den 7—11 januari 1930. </figDesc>
+            <graphic xml:id="postit01_full" url="assets/img/documents/postit01.png"/>
+         </figure>
+      </surface>
+   </facsimile>
+   <text>
+      <body>
+         <div type="section">
+            <head rend="align(center)"><orgName><hi rend="underscore"><hi rend="bold"
+                        >Internationella Kvinnoförbundet för Fred och
+               Frihet.</hi></hi></orgName></head>
+         </div>
+         <div type="section">
+            <head rend="align(center)"><hi rend="underscore"><hi rend="bold">Sjätte
+                     Upplysningskursen.</hi></hi></head>
+         </div>
+         <div type="section">
+            <p rend="align(center)"><hi rend="bold">i <placeName>Stockholm-Uppsala</placeName>
+                  <date from="1930-01-07" to="1930-01-11">den 7—11 januari 1930</date></hi></p>
+         </div>
+         <div type="section">
+            <p><hi rend="bold"><placeName>Stockholm</placeName><date from="1930-01-07"
+                     to="1930-01-09">(den 7—9 jan.)</date><placeName>Läkaresällskapets stora
+                     sal</placeName>,<lb/>
+                  <seg type="address">Klara Östra Kyrkogata 10,<lb/></seg> såvitt ej annat nedan
+                  angives.<lb/> Föredrag <time from="10:00:00" to="13:00:00"> kl. 10 f. m.— 1 e. m.
+                  </time> samt <time from="14:30:00" to="17:00:00">kl. 2,30-5 e. m.</time></hi></p>
+         </div>
+         <div type="section">
+            <p rend="align(center)"><hi rend="bold"><placeName>Uppsala</placeName><date
+                     from="1930-01-10" to="1930-01-11">(den 10—11 jan.)</date>
+                  <placeName>Universitetet, Lärosal X</placeName>.</hi></p>
+         </div>
+         <div type="section">
+            <head rend="align(center)"><hi rend="bold"><placeName>Stockholm</placeName></hi></head>
+            <head><hi rend="bold"><date when="1930-01-07">Tisdag 7 jan.</date> kl. 10 f.
+               m.</hi></head>
+            <list type="ordered">
+               <item>Musik av Damkvartetten. <lb/>
+               </item>
+               <item>Minnen och gestalter från Freds och Frihets tio första år,<ref
+                     target="https://sv.wikipedia.org/wiki/Matilda_Widegren">fröken Matilda
+                     Widegren</ref>.<lb/>
+               </item>
+               <item>Kyrkans insats för mänsklighetens enande (2 föreläsningar), <ref
+                     target="https://sv.wikipedia.org/wiki/Paul_Sandegren">pastor Paul
+                     Sandegren</ref>.<lb/>
+               </item>
+               <item>Efterkrigslitteraturen och den nya generationen, <ref
+                     target="https://sv.wikipedia.org/wiki/Sven_Stolpe">fil. lic. Sven Stolpe
+                  </ref>.<lb/>
+               </item>
+               <item>De internationella kartellerna och trusterna, <ref
+                     target="https://sv.wikipedia.org/wiki/Thorsten_Odhe">redaktör Thorsten
+                     Odhe</ref>.<lb/>
+               </item>
+            </list>
+         </div>
+         <div type="section">
+            <head><hi rend="bold"><date when="1930-01-08">Onsdag 8 jan.</date>
+                  <time when="14:30:00">kl. 2,30 e. m.</time></hi></head>
+            <list type="ordered">
+               <item>Ekonomiskt samarbete i Europa (2 föreläsningar), kanslichefen <persName>Per
+                     Jacobson</persName>.<lb/>
+               </item>
+               <item>Nationernas förbunds 10:de församling (ljusbilder), <ref
+                     target="https://sv.wikipedia.org/wiki/Elisabet_Eur%C3%A9n">lektor Elisabet
+                     Eurén</ref>.<lb/>
+               </item>
+               <item><hi rend="bold">Kl. 8 e. m. Aftonmöte i <placeName>K. F. U. M:s
+                        hörsal</placeName>.</hi><lb/>
+               </item>
+               <item>Internationella Kvinnoförbundets för Fred och Frihet försoningsarbete på
+                  Balkan, <ref target="https://en.wikipedia.org/wiki/Camille_Drevet">M:me Camille
+                     Drevet</ref>.<lb/>
+                  <hi rend="small"><add place="interlinear">Föredraget, som hålles på franska,
+                        tolkas av <ref target="https://sv.wikipedia.org/wiki/Karl_Fries"> dr Karl
+                           Fries</ref>.</add></hi>
+                  <lb/>
+               </item>
+               <item>Civilisationsarbete i Marocko, <ref
+                     target="https://sv.wikipedia.org/wiki/Marika_Stiernstedt">förf. Marika
+                     Stiernstedt</ref>.<lb/></item>
+            </list>
+         </div>
+         <div type="section">
+            <head><hi rend="bold"><date when="1930-01-09">Torsdag 9 jan. </date>
+                  <time when="10:00:00">kl. 10 f. m.</time>
+               </hi></head>
+            <list type="ordered">
+               <item>Balkanländerna och fredsrörelsen, <ref
+                     target="https://sv.wikipedia.org/wiki/Carl_Lindhagen"> borgmästare Carl
+                     Lindhagen</ref>.<lb/>
+               </item>
+               <item>Ekonomisk nedrustning, <ref target="https://sv.wikipedia.org/wiki/Bertil_Ohlin"
+                     > professor Bertil Ohlin</ref>.<lb/>
+               </item>
+               <item>Palestina efter världskriget (2 föreläsningar, ljusbilder), <ref
+                     target="https://sv.wikipedia.org/wiki/Sven_Linder_(teolog)">professor Sven
+                     Linder</ref>.<lb/>
+               </item>
+               <item>Die Völker Russlands (2 föreläsningar), <persName>Sergej Vasiljevitj
+                     Dmitrievski</persName>.<lb/>
+                  <hi rend="small"><add place="interlinear">Föredragen tolkas av <ref
+                           target="https://sv.wikipedia.org/wiki/Ivan_Pauli"> lektor Ivan
+                           Pauli</ref>.</add></hi>
+                  <lb/>
+               </item>
+               <item><hi rend="bold"><time when="20:00:00">Kl. 8 e. m. </time>Aftonmöte i
+                        <placeName>K. F. U. M:s hörsal</placeName>.</hi>
+                  <lb/>
+               </item>
+               <item>Skapande eller ödeläggande mentalitet hos den nya generationen? <ref
+                     target="https://sv.wikipedia.org/wiki/Alf_Ahlberg">dr. Alf Ahlberg</ref>.<lb/>
+               </item>
+               <item>Korta anföranden av representanter<lb/> från ungdomsföreningar, som arbeta för
+                  fred.</item>
+            </list>
+         </div>
+         <div type="section">
+            <head rend="align(center)"><placeName>Uppsala</placeName>.</head>
+            <head><hi rend="bold"><date when="1930-01-10">Fredag 10 jan.</date>
+                  <time when="12:00:00">kl. 12.</time>
+               </hi></head>
+            <list type="ordered">
+               <item>Aktuella strävanden inom Nationernas förbund, <ref
+                     target="https://sv.wikipedia.org/wiki/%C3%96sten_Und%C3%A9n"> professor Östen
+                     Undén</ref>.<lb/>
+               </item>
+               <item>Den fasta mellanfolkliga domstolen, <ref
+                     target="https://sv.wikipedia.org/wiki/%C3%85ke_Holmb%C3%A4ck">professor Åke
+                     Holmbäck</ref>.<lb/>
+               </item>
+               <item>Internationella arbetsbyrån i Genève, <ref
+                     target="https://sv.wikipedia.org/wiki/Arvid_Thorberg">riksdagsman Arvid
+                     Thorberg</ref>.</item>
+            </list>
+         </div>
+         <div type="section">
+            <head><hi rend="bold"><date when="1930-01-11">Lördag 11 jan.</date>
+                  <time when="10:00:00"> kl. 10 f. m.</time>
+               </hi></head>
+            <list type="ordered">
+               <item>Vetenskap och fred, professor <ref
+                     target="https://sv.wikipedia.org/wiki/Robert_B%C3%A1r%C3%A1ny">Robert
+                     Bárány</ref>.<lb/>
+               </item>
+               <item>Delegationen till Kina 1927-1928, <ref
+                     target="https://en.wikipedia.org/wiki/Camille_Drevet">M:me Camille Drevet</ref>.<lb/>
+                  <hi rend="small"><add place="interlinear">Föredraget, som hålles på franska,
+                        kommer att tolkas.</add></hi>
+                  <lb/>
+               </item>
+               <item>Efterkrigsvärlden och de unga, <ref
+                     target="https://sv.wikipedia.org/wiki/Anna_Lenah_Elgstr%C3%B6m">förf. Anna
+                     Lenah Elgström-Collijn</ref>.<lb/></item>
+               <item>- - -</item>
+               <item>Avslutningsord.<lb/>
+               </item>
+               <item><hi rend="bold"><time when="19:00:00">Kl. 7 e. m.</time>Vesper
+                        i<placeName>Uppsala domkyrka</placeName>.</hi>
+                  <ref target="https://sv.wikipedia.org/wiki/Tor_Andr%C3%A6">Professor Tor
+                     Andræ</ref>. </item>
+            </list>
+         </div>
+         <div type="section">
+            <p><hi rend="bold">Anmälningar mottagas <time from="12:00:00" to="16:00:00">kl. 12-4 e.
+                     m.</time> à Internationella Kvinnoförbundets för Fred och Frihet byrå,<seg
+                     type="address">David Baga-<lb/> res gata 9-11, 2 tr., Stockholm, tel. Norr 117
+                     20</seg> samt i <placeName>Uppsala</placeName> av fru <persName>Hedvig
+                     Torbiörnsson</persName>, <seg type="address">Tegnérgatan 26, tel.<lb/> Uppsala
+                     22 35</seg>. I <placeName>Uppsala</placeName> hålles byrå öppen å Universitetet
+                  från och med den <date>9 januari</date>.<lb/> Kursavgift för hela kursen <measure
+                     type="currency">5 kr.</measure>, enbart för dagarna i
+                     <placeName>Stockholm</placeName>
+                  <measure type="currency">3 kr.</measure>, för dagarna i
+                     <placeName>Uppsala</placeName>
+                  <measure type="currency">2 kr</measure>. Halv-<lb/> dagsbiljett <measure
+                     type="currency">75 öre</measure>, för aftonmöte <measure type="currency">75
+                     öre</measure>.</hi>
+            </p>
+         </div>
+         <div type="section">
+            <p><hi rend="small"><placeName>Stockholm</placeName><orgName>Oskar Eklunds
+                     Boktryckeri</orgName>,<date>1929</date></hi>
+            </p>
+         </div>
+      </body>
+   </text>
+</TEI>
