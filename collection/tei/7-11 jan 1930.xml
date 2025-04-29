@@ -49,7 +49,7 @@
       </encodingDesc>
       <xenoData>
          <rdf:RDF>
-            <rdf:description rdf:about="">
+            <rdf:Description rdf:about="">
                <dcterms:title>Sjätte Upplysningskursen</dcterms:title>
                <dcterms:Description>Affisch som marknadsför Internationella Kvinnoförbundets sjätte
                   upplysningskurs som hölls i Stockholm den 7-9 januari 1930 januari samt i Uppsala
@@ -63,7 +63,7 @@
                <dcterms:spatial>Stockholm, Uppsala</dcterms:spatial>
                <dcterms:references>Oskar Eklunds boktryckeri.</dcterms:references>
                <dcterms:references/>
-            </rdf:description>
+            </rdf:Description>
             <rdf:description rdf:about=""> </rdf:description>
             <rdf:Description rdf:about="Poster_1_final.tif" xmlns:et="http://ns.exiftool.org/1.0/"
                et:toolkit="Image::ExifTool 13.27"
@@ -651,13 +651,13 @@
       </revisionDesc>
    </teiHeader>
    <facsimile>
-      <surface xml:id="postit01">
+      <surface xml:id="Poster_1_final_IMG_1653_6_">
          <figure>
             <label>Upplysningskurs i Stockholm-Uppsala den 7—11 januari 1930</label>
             <figDesc> Ett fotografi som föreställer den affisch Internationella Kvinnoförundet tog
                fram för att marknadsföra förbundets sjätte upplysningskurs som hölls i
                Stockholm-Uppsala den 7—11 januari 1930. </figDesc>
-            <graphic xml:id="postit01_full" url="assets/img/documents/postit01.png"/>
+            <graphic xml:id="Poster_1_final_IMG_1653_6_web.png" url="Poster_1_final_IMG_1653_6_web.png"/>
          </figure>
       </surface>
    </facsimile>
