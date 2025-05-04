@@ -11,18 +11,24 @@
                distrubierades i samband med förbundets Sjätte Upplysningskurs</title>
             <author corresp="https://ikff.se/">Internationella Kvinnoförbundet för Fred och
                Frihet</author>
-            <principal>Veronica Zander</principal>
+            <respStmt>
+               <resp>OCR och kodning</resp>
+               <persName><forename>Ellinor</forename><surname>Sjöblom</surname></persName>
+               <persName><forename>Veronica</forename><surname>Zander</surname></persName>
+            </respStmt>
          </titleStmt>
          <publicationStmt>
             <publisher>Borås Högskola</publisher>
-            <authority>Gruppen</authority>
+            <authority>
+               <persName><forename>Ellinor</forename><surname>Sjöblom</surname></persName>
+               <persName><forename>Nanna</forename><surname>Stig Meyer</surname></persName>
+               <persName><forename>Kateryna</forename><surname>Virko</surname></persName>
+               <persName><forename>Veronica</forename><surname>Zander</surname></persName>
+            </authority>
             <date when="2025-04-16">2025</date>
             <availability>
-               <p>Vid publicering skall ...</p>
-               <licence target="https://creativecommons.org/licenses/by-sa/4.0/">
-                  <p>Affischen är författad av Internationella Kvinnoförbundet för Fred och Frihet
-                     (1931). Transkriptionen är licenserad under CC-BY-SA 4.0. </p>
-               </licence>
+               <p>Detta material är licenserat under CC-BY-SA 4.0.</p>
+               <licence target="https://creativecommons.org/licenses/by-sa/4.0/"> </licence>
             </availability>
          </publicationStmt>
          <sourceDesc>
@@ -42,10 +48,20 @@
          </sourceDesc>
       </fileDesc>
       <encodingDesc>
-         <p>Texten har extraherats genom OCR, optisk teckenigenkänning. Kodningen omfattar såväl
-            textens lexikala information såväl som layout där radbrytningar, halvrader, fetstil,
-            understrykningar samt skillnader i textstorlek kodats. De olika typsnitt och
-            teckekstorlekar som förekommer har dock inte beaktats</p>
+         <projectDesc>
+            <p>Detta digitaliseringsprojekt har genomförts inom ramen för kursen Digitalisering för
+               bevarande och tillgänglighet vid Borås högskola vårterminen 2025. Projektet har
+               genomförts i samarbete med KvinnSam vid Göteborgs universitet. Det digitaliserade
+               materialet utgör en del av Internationella Kvinnoförbundet för Fred och Frihets arkiv
+               som ombesörjs av KvinnSam.</p>
+         </projectDesc>
+         <editorialDecl>
+            <p>Texten har extraherats genom OCR, optisk teckenigenkänning. Kodningen omfattar såväl
+               textens lexikala information såväl som layout där radbrytningar, halvrader, fetstil,
+               understrykningar samt skillnader i textstorlek kodats. De olika typsnitt och
+               teckekstorlekar som förekommer har dock inte beaktats</p>
+         </editorialDecl>
+
       </encodingDesc>
       <xenoData>
          <rdf:RDF>
@@ -596,8 +612,8 @@
          <textDesc>
             <channel>"tryck"</channel>
             <constitution>"affisch"</constitution>
-            <derivation>"primärkälla"</derivation>
-            <domain type="publicity">publik</domain>
+            <derivation>"original"</derivation>
+            <domain type="publicity">"publik"</domain>
             <factuality>"faktuell"</factuality>
             <interaction type="none">"envägskommunikation</interaction>
             <preparedness>"planerad"</preparedness>
@@ -657,12 +673,14 @@
             <figDesc> Ett fotografi som föreställer den affisch Internationella Kvinnoförundet tog
                fram för att marknadsföra förbundets sjätte upplysningskurs som hölls i
                Stockholm-Uppsala den 7—11 januari 1930. </figDesc>
-            <graphic xml:id="Poster_1_final_IMG_1653_6_web.png" url="Poster_1_final_IMG_1653_6_web.png"/>
+            <graphic xml:id="Poster_1_final_IMG_1653_6_web.png"
+               url="Poster_1_final_IMG_1653_6_web.png"/>
          </figure>
       </surface>
    </facsimile>
    <text>
       <body>
+         <head>Sjätte upplysningskursen 1930</head>
          <div type="section">
             <head rend="align(center)"><orgName><hi rend="underscore"><hi rend="bold"
                         >Internationella Kvinnoförbundet för Fred och
