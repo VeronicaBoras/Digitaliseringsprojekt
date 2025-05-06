@@ -1,0 +1,866 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:dcterms="http://purl.org/dc/terms/"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Digitaliserad version av Kvinnoförbundet för Fred och Frihets affisch som
+               distrubierades i samband med förbundets Sjätte Upplysningskurs</title>
+            <author corresp="https://ikff.se/">Internationella Kvinnoförbundet för Fred och
+               Frihet</author>
+            <respStmt>
+               <resp>OCR och kodning</resp>
+               <persName><forename>Ellinor</forename><surname>Sjöblom</surname></persName>
+               <persName><forename>Veronica</forename><surname>Zander</surname></persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Borås Högskola</publisher>
+            <authority>
+               <persName><forename>Ellinor</forename><surname>Sjöblom</surname></persName>
+               <persName><forename>Nanna</forename><surname>Stig Meyer</surname></persName>
+               <persName><forename>Kateryna</forename><surname>Virko</surname></persName>
+               <persName><forename>Veronica</forename><surname>Zander</surname></persName>
+            </authority>
+            <date when="2025-04-16">2025</date>
+            <availability>
+               <p>Detta material är licenserat under CC-BY-SA 4.0.</p>
+               <licence target="https://creativecommons.org/licenses/by-sa/4.0/"> </licence>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <title>Sjätte Upplysningskursen</title>
+               <author>Internationella Kvinnoförbundet för Fred och Frihet</author>
+               <pubPlace>Stockholm</pubPlace>
+               <publisher>Oskar Eklunds boktryckeri.</publisher>
+               <date when="1930">1929</date>
+               <note>Affischen marknadsför Internationella Kvinnoförbundets sjätte upplysningskurs
+                  som hölls i Stockholm den 7-9 januari 1930 januari samt i Uppsala den 10-11
+                  januari 1930. Affischen är framtagen av Internationella Kvinnoförbundet för Fred
+                  och Frihet och utgör en del av föreningens arkiv som förvaras i Humnanistiska
+                  biblioteket i Göteborg. Ansvarig för Internationella Kvinnoförbundets arkiv vid
+                  Humanistiska biblioteket är KvinnSam.</note>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Detta digitaliseringsprojekt har genomförts inom ramen för kursen Digitalisering för
+               bevarande och tillgänglighet vid Borås högskola vårterminen 2025. Projektet har
+               genomförts i samarbete med KvinnSam vid Göteborgs universitet. Det digitaliserade
+               materialet utgör en del av Internationella Kvinnoförbundet för Fred och Frihets arkiv
+               som ombesörjs av KvinnSam.</p>
+         </projectDesc>
+         <editorialDecl>
+            <p>Texten har extraherats genom OCR, optisk teckenigenkänning. Kodningen omfattar såväl
+               textens lexikala information såväl som layout där radbrytningar, halvrader, fetstil,
+               understrykningar samt skillnader i textstorlek kodats. De olika typsnitt och
+               teckekstorlekar som förekommer har dock inte beaktats</p>
+         </editorialDecl>
+
+      </encodingDesc>
+      <xenoData>
+         <rdf:RDF>
+            <rdf:Description rdf:about="">
+               <dcterms:title>Sjätte Upplysningskursen</dcterms:title>
+               <dcterms:Description>Affisch som marknadsför Internationella Kvinnoförbundets sjätte
+                  upplysningskurs som hölls i Stockholm den 7-9 januari 1930 januari samt i Uppsala
+                  den 10-11 januari 1930.</dcterms:Description>
+               <dcterms:type>affisch</dcterms:type>
+               <dcterms:format/>
+               <dcterms:creator>Internationella Kvinnoförbundet för Fred och
+                  Frihet</dcterms:creator>
+               <dcterms:isVersionOf>Tryck</dcterms:isVersionOf>
+               <dcterms:temporal>7 till 11 januari 1930</dcterms:temporal>
+               <dcterms:spatial>Stockholm, Uppsala</dcterms:spatial>
+               <dcterms:references>Oskar Eklunds boktryckeri.</dcterms:references>
+               <dcterms:references/>
+            </rdf:Description>
+            <rdf:description rdf:about=""> </rdf:description>
+            <rdf:Description rdf:about="Poster_1_final.tif" xmlns:et="http://ns.exiftool.org/1.0/"
+               et:toolkit="Image::ExifTool 13.27"
+               xmlns:ExifTool="http://ns.exiftool.org/ExifTool/1.0/"
+               xmlns:System="http://ns.exiftool.org/File/System/1.0/"
+               xmlns:File="http://ns.exiftool.org/File/1.0/"
+               xmlns:IFD0="http://ns.exiftool.org/EXIF/IFD0/1.0/"
+               xmlns:XMP-x="http://ns.exiftool.org/XMP/XMP-x/1.0/"
+               xmlns:XMP-aux="http://ns.exiftool.org/XMP/XMP-aux/1.0/"
+               xmlns:XMP-crs="http://ns.exiftool.org/XMP/XMP-crs/1.0/"
+               xmlns:XMP-dc="http://ns.exiftool.org/XMP/XMP-dc/1.0/"
+               xmlns:XMP-exif="http://ns.exiftool.org/XMP/XMP-exif/1.0/"
+               xmlns:XMP-exifEX="http://ns.exiftool.org/XMP/XMP-exifEX/1.0/"
+               xmlns:XMP-photoshop="http://ns.exiftool.org/XMP/XMP-photoshop/1.0/"
+               xmlns:XMP-tiff="http://ns.exiftool.org/XMP/XMP-tiff/1.0/"
+               xmlns:XMP-xmp="http://ns.exiftool.org/XMP/XMP-xmp/1.0/"
+               xmlns:XMP-xmpMM="http://ns.exiftool.org/XMP/XMP-xmpMM/1.0/"
+               xmlns:IPTC="http://ns.exiftool.org/IPTC/IPTC/1.0/"
+               xmlns:Photoshop="http://ns.exiftool.org/Photoshop/Photoshop/1.0/"
+               xmlns:ExifIFD="http://ns.exiftool.org/EXIF/ExifIFD/1.0/"
+               xmlns:ICC-header="http://ns.exiftool.org/ICC_Profile/ICC-header/1.0/"
+               xmlns:ICC_Profile="http://ns.exiftool.org/ICC_Profile/ICC_Profile/1.0/"
+               xmlns:Composite="http://ns.exiftool.org/Composite/1.0/">
+               <ExifTool:ExifToolVersion>13.27</ExifTool:ExifToolVersion>
+               <System:FileName>Poster_1_final.tif</System:FileName>
+               <System:Directory>.</System:Directory>
+               <System:FileSize>67 MB</System:FileSize>
+               <System:FileModifyDate>2025:04:28 23:30:29+02:00</System:FileModifyDate>
+               <System:FileAccessDate>2025:04:28 23:43:09+02:00</System:FileAccessDate>
+               <System:FileCreateDate>2025:04:28 21:28:50+02:00</System:FileCreateDate>
+               <System:FilePermissions>-rw-rw-rw-</System:FilePermissions>
+               <File:FileType>TIFF</File:FileType>
+               <File:FileTypeExtension>tif</File:FileTypeExtension>
+               <File:MIMEType>image/tiff</File:MIMEType>
+               <File:ExifByteOrder>Little-endian (Intel, II)</File:ExifByteOrder>
+               <File:CurrentIPTCDigest>1902f82c9e9cd64673838f4cf70cabbb</File:CurrentIPTCDigest>
+               <IFD0:SubfileType>Full-resolution image</IFD0:SubfileType>
+               <IFD0:ImageWidth>2564</IFD0:ImageWidth>
+               <IFD0:ImageHeight>4402</IFD0:ImageHeight>
+               <IFD0:BitsPerSample>8 8 8</IFD0:BitsPerSample>
+               <IFD0:Compression>Uncompressed</IFD0:Compression>
+               <IFD0:PhotometricInterpretation>RGB</IFD0:PhotometricInterpretation>
+               <IFD0:Make>Canon</IFD0:Make>
+               <IFD0:Model>Canon EOS 600D</IFD0:Model>
+               <IFD0:StripOffsets>33616788</IFD0:StripOffsets>
+               <IFD0:Orientation>Horizontal (normal)</IFD0:Orientation>
+               <IFD0:SamplesPerPixel>3</IFD0:SamplesPerPixel>
+               <IFD0:RowsPerStrip>4402</IFD0:RowsPerStrip>
+               <IFD0:StripByteCounts>33860184</IFD0:StripByteCounts>
+               <IFD0:XResolution>300</IFD0:XResolution>
+               <IFD0:YResolution>300</IFD0:YResolution>
+               <IFD0:PlanarConfiguration>Chunky</IFD0:PlanarConfiguration>
+               <IFD0:ResolutionUnit>inches</IFD0:ResolutionUnit>
+               <IFD0:Software>Adobe Photoshop 26.3 (Macintosh)</IFD0:Software>
+               <IFD0:ModifyDate>2025:04:26 21:26:28</IFD0:ModifyDate>
+               <XMP-x:XMPToolkit>Image::ExifTool 13.27</XMP-x:XMPToolkit>
+               <XMP-aux:ApproximateFocusDistance>0.93</XMP-aux:ApproximateFocusDistance>
+               <XMP-aux:DistortionCorrectionAlreadyApplied>True</XMP-aux:DistortionCorrectionAlreadyApplied>
+               <XMP-aux:EnhanceDenoiseAlreadyApplied>True</XMP-aux:EnhanceDenoiseAlreadyApplied>
+               <XMP-aux:EnhanceDenoiseLumaAmount>50</XMP-aux:EnhanceDenoiseLumaAmount>
+               <XMP-aux:EnhanceDenoiseVersion>251658240</XMP-aux:EnhanceDenoiseVersion>
+               <XMP-aux:EnhanceDetailsAlreadyApplied>True</XMP-aux:EnhanceDetailsAlreadyApplied>
+               <XMP-aux:EnhanceDetailsVersion>218300416</XMP-aux:EnhanceDetailsVersion>
+               <XMP-aux:Firmware>1.0.2</XMP-aux:Firmware>
+               <XMP-aux:FlashCompensation>0</XMP-aux:FlashCompensation>
+               <XMP-aux:ImageNumber>0</XMP-aux:ImageNumber>
+               <XMP-aux:Lens>EF-S18-55mm f/3.5-5.6 IS II</XMP-aux:Lens>
+               <XMP-aux:LensID>52</XMP-aux:LensID>
+               <XMP-aux:LensInfo>18-55mm f/?</XMP-aux:LensInfo>
+               <XMP-aux:LensSerialNumber>0000727ca9</XMP-aux:LensSerialNumber>
+               <XMP-aux:SerialNumber>373077013900</XMP-aux:SerialNumber>
+               <XMP-aux:VignetteCorrectionAlreadyApplied>True</XMP-aux:VignetteCorrectionAlreadyApplied>
+               <XMP-crs:AlreadyApplied>True</XMP-crs:AlreadyApplied>
+               <XMP-crs:AutoLateralCA>0</XMP-crs:AutoLateralCA>
+               <XMP-crs:AutoToneDigest>1905DAE5AEED73AC8A0777A6210AA618</XMP-crs:AutoToneDigest>
+               <XMP-crs:AutoToneDigestNoSat>B3D2DF87FC5312F5BD8793424B086099</XMP-crs:AutoToneDigestNoSat>
+               <XMP-crs:Blacks2012>-17</XMP-crs:Blacks2012>
+               <XMP-crs:BlueHue>0</XMP-crs:BlueHue>
+               <XMP-crs:BlueSaturation>0</XMP-crs:BlueSaturation>
+               <XMP-crs:CameraProfile>Adobe Standard</XMP-crs:CameraProfile>
+               <XMP-crs:CameraProfileDigest>5FA0FA90C7785F94FED74CC8AE080777</XMP-crs:CameraProfileDigest>
+               <XMP-crs:Clarity2012>0</XMP-crs:Clarity2012>
+               <XMP-crs:ColorGradeBlending>50</XMP-crs:ColorGradeBlending>
+               <XMP-crs:ColorGradeGlobalHue>0</XMP-crs:ColorGradeGlobalHue>
+               <XMP-crs:ColorGradeGlobalLum>0</XMP-crs:ColorGradeGlobalLum>
+               <XMP-crs:ColorGradeGlobalSat>0</XMP-crs:ColorGradeGlobalSat>
+               <XMP-crs:ColorGradeHighlightLum>0</XMP-crs:ColorGradeHighlightLum>
+               <XMP-crs:ColorGradeMidtoneHue>0</XMP-crs:ColorGradeMidtoneHue>
+               <XMP-crs:ColorGradeMidtoneLum>0</XMP-crs:ColorGradeMidtoneLum>
+               <XMP-crs:ColorGradeMidtoneSat>0</XMP-crs:ColorGradeMidtoneSat>
+               <XMP-crs:ColorGradeShadowLum>0</XMP-crs:ColorGradeShadowLum>
+               <XMP-crs:ColorNoiseReduction>0</XMP-crs:ColorNoiseReduction>
+               <XMP-crs:CompatibleVersion>268435456</XMP-crs:CompatibleVersion>
+               <XMP-crs:Contrast2012>+6</XMP-crs:Contrast2012>
+               <XMP-crs:CropAngle>0</XMP-crs:CropAngle>
+               <XMP-crs:CropBottom>1</XMP-crs:CropBottom>
+               <XMP-crs:CropConstrainToWarp>0</XMP-crs:CropConstrainToWarp>
+               <XMP-crs:CropLeft>0</XMP-crs:CropLeft>
+               <XMP-crs:CropRight>1</XMP-crs:CropRight>
+               <XMP-crs:CropTop>0</XMP-crs:CropTop>
+               <XMP-crs:DefringeGreenAmount>0</XMP-crs:DefringeGreenAmount>
+               <XMP-crs:DefringeGreenHueHi>60</XMP-crs:DefringeGreenHueHi>
+               <XMP-crs:DefringeGreenHueLo>40</XMP-crs:DefringeGreenHueLo>
+               <XMP-crs:DefringePurpleAmount>0</XMP-crs:DefringePurpleAmount>
+               <XMP-crs:DefringePurpleHueHi>70</XMP-crs:DefringePurpleHueHi>
+               <XMP-crs:DefringePurpleHueLo>30</XMP-crs:DefringePurpleHueLo>
+               <XMP-crs:Dehaze>0</XMP-crs:Dehaze>
+               <XMP-crs:Exposure2012>+0.90</XMP-crs:Exposure2012>
+               <XMP-crs:GrainAmount>0</XMP-crs:GrainAmount>
+               <XMP-crs:GreenHue>0</XMP-crs:GreenHue>
+               <XMP-crs:GreenSaturation>0</XMP-crs:GreenSaturation>
+               <XMP-crs:HDREditMode>1</XMP-crs:HDREditMode>
+               <XMP-crs:HDRMaxValue>+4.00</XMP-crs:HDRMaxValue>
+               <XMP-crs:HasCrop>False</XMP-crs:HasCrop>
+               <XMP-crs:HasSettings>True</XMP-crs:HasSettings>
+               <XMP-crs:Highlights2012>-28</XMP-crs:Highlights2012>
+               <XMP-crs:HueAdjustmentAqua>0</XMP-crs:HueAdjustmentAqua>
+               <XMP-crs:HueAdjustmentBlue>0</XMP-crs:HueAdjustmentBlue>
+               <XMP-crs:HueAdjustmentGreen>0</XMP-crs:HueAdjustmentGreen>
+               <XMP-crs:HueAdjustmentMagenta>0</XMP-crs:HueAdjustmentMagenta>
+               <XMP-crs:HueAdjustmentOrange>0</XMP-crs:HueAdjustmentOrange>
+               <XMP-crs:HueAdjustmentPurple>0</XMP-crs:HueAdjustmentPurple>
+               <XMP-crs:HueAdjustmentRed>0</XMP-crs:HueAdjustmentRed>
+               <XMP-crs:HueAdjustmentYellow>0</XMP-crs:HueAdjustmentYellow>
+               <XMP-crs:LensManualDistortionAmount>0</XMP-crs:LensManualDistortionAmount>
+               <XMP-crs:LensProfileDigest>DCD0C67967F80F728640FFA2A31FA08A</XMP-crs:LensProfileDigest>
+               <XMP-crs:LensProfileDistortionScale>100</XMP-crs:LensProfileDistortionScale>
+               <XMP-crs:LensProfileEnable>1</XMP-crs:LensProfileEnable>
+               <XMP-crs:LensProfileFilename>Canon EOS 50D (Canon EF-S 18-55mm f3.5-5.6 IS II) -
+                  RAW.lcp</XMP-crs:LensProfileFilename>
+               <XMP-crs:LensProfileIsEmbedded>False</XMP-crs:LensProfileIsEmbedded>
+               <XMP-crs:LensProfileName>Adobe (Canon EF-S 18-55mm f/3.5-5.6 IS
+                  II)</XMP-crs:LensProfileName>
+               <XMP-crs:LensProfileSetup>LensDefaults</XMP-crs:LensProfileSetup>
+               <XMP-crs:LensProfileVignettingScale>100</XMP-crs:LensProfileVignettingScale>
+               <XMP-crs:LookAmount>1</XMP-crs:LookAmount>
+               <XMP-crs:LookCopyright>© 2018 Adobe Systems, Inc.</XMP-crs:LookCopyright>
+               <XMP-crs:LookGroup>Profiles</XMP-crs:LookGroup>
+               <XMP-crs:LookName>Adobe Color</XMP-crs:LookName>
+               <XMP-crs:LookParametersCameraProfile>Adobe
+                  Standard</XMP-crs:LookParametersCameraProfile>
+               <XMP-crs:LookParametersConvertToGrayscale>False</XMP-crs:LookParametersConvertToGrayscale>
+               <XMP-crs:LookParametersLookTable>E1095149FDB39D7A057BAB208837E2E1</XMP-crs:LookParametersLookTable>
+               <XMP-crs:LookParametersProcessVersion>15.4</XMP-crs:LookParametersProcessVersion>
+               <XMP-crs:LookParametersToneCurvePV2012>
+                  <rdf:Bag>
+                     <rdf:li>0, 0</rdf:li>
+                     <rdf:li>22, 16</rdf:li>
+                     <rdf:li>40, 35</rdf:li>
+                     <rdf:li>127, 127</rdf:li>
+                     <rdf:li>224, 230</rdf:li>
+                     <rdf:li>240, 246</rdf:li>
+                     <rdf:li>255, 255</rdf:li>
+                  </rdf:Bag>
+               </XMP-crs:LookParametersToneCurvePV2012>
+               <XMP-crs:LookParametersToneCurvePV2012Blue>
+                  <rdf:Bag>
+                     <rdf:li>0, 0</rdf:li>
+                     <rdf:li>255, 255</rdf:li>
+                  </rdf:Bag>
+               </XMP-crs:LookParametersToneCurvePV2012Blue>
+               <XMP-crs:LookParametersToneCurvePV2012Green>
+                  <rdf:Bag>
+                     <rdf:li>0, 0</rdf:li>
+                     <rdf:li>255, 255</rdf:li>
+                  </rdf:Bag>
+               </XMP-crs:LookParametersToneCurvePV2012Green>
+               <XMP-crs:LookParametersToneCurvePV2012Red>
+                  <rdf:Bag>
+                     <rdf:li>0, 0</rdf:li>
+                     <rdf:li>255, 255</rdf:li>
+                  </rdf:Bag>
+               </XMP-crs:LookParametersToneCurvePV2012Red>
+               <XMP-crs:LookParametersVersion>17.2</XMP-crs:LookParametersVersion>
+               <XMP-crs:LookSupportsAmount>false</XMP-crs:LookSupportsAmount>
+               <XMP-crs:LookSupportsMonochrome>false</XMP-crs:LookSupportsMonochrome>
+               <XMP-crs:LookSupportsOutputReferred>false</XMP-crs:LookSupportsOutputReferred>
+               <XMP-crs:LookUUID>B952C231111CD8E0ECCF14B86BAA7077</XMP-crs:LookUUID>
+               <XMP-crs:LuminanceAdjustmentAqua>0</XMP-crs:LuminanceAdjustmentAqua>
+               <XMP-crs:LuminanceAdjustmentBlue>0</XMP-crs:LuminanceAdjustmentBlue>
+               <XMP-crs:LuminanceAdjustmentGreen>0</XMP-crs:LuminanceAdjustmentGreen>
+               <XMP-crs:LuminanceAdjustmentMagenta>0</XMP-crs:LuminanceAdjustmentMagenta>
+               <XMP-crs:LuminanceAdjustmentOrange>0</XMP-crs:LuminanceAdjustmentOrange>
+               <XMP-crs:LuminanceAdjustmentPurple>0</XMP-crs:LuminanceAdjustmentPurple>
+               <XMP-crs:LuminanceAdjustmentRed>0</XMP-crs:LuminanceAdjustmentRed>
+               <XMP-crs:LuminanceAdjustmentYellow>0</XMP-crs:LuminanceAdjustmentYellow>
+               <XMP-crs:LuminanceSmoothing>0</XMP-crs:LuminanceSmoothing>
+               <XMP-crs:OverrideLookVignette>False</XMP-crs:OverrideLookVignette>
+               <XMP-crs:ParametricDarks>0</XMP-crs:ParametricDarks>
+               <XMP-crs:ParametricHighlightSplit>75</XMP-crs:ParametricHighlightSplit>
+               <XMP-crs:ParametricHighlights>0</XMP-crs:ParametricHighlights>
+               <XMP-crs:ParametricLights>0</XMP-crs:ParametricLights>
+               <XMP-crs:ParametricMidtoneSplit>50</XMP-crs:ParametricMidtoneSplit>
+               <XMP-crs:ParametricShadowSplit>25</XMP-crs:ParametricShadowSplit>
+               <XMP-crs:ParametricShadows>0</XMP-crs:ParametricShadows>
+               <XMP-crs:PerspectiveAspect>0</XMP-crs:PerspectiveAspect>
+               <XMP-crs:PerspectiveHorizontal>0</XMP-crs:PerspectiveHorizontal>
+               <XMP-crs:PerspectiveRotate>0.0</XMP-crs:PerspectiveRotate>
+               <XMP-crs:PerspectiveScale>100</XMP-crs:PerspectiveScale>
+               <XMP-crs:PerspectiveUpright>Off</XMP-crs:PerspectiveUpright>
+               <XMP-crs:PerspectiveVertical>0</XMP-crs:PerspectiveVertical>
+               <XMP-crs:PerspectiveX>0.00</XMP-crs:PerspectiveX>
+               <XMP-crs:PerspectiveY>0.00</XMP-crs:PerspectiveY>
+               <XMP-crs:PointColors>-1.000000, -1.000000, -1.000000, -1.000000, -1.000000,
+                  -1.000000, -1.000000, -1.000000, -1.000000, -1.000000, -1.000000, -1.000000,
+                  -1.000000, -1.000000, -1.000000, -1.000000, -1.000000, -1.000000,
+                  -1.000000</XMP-crs:PointColors>
+               <XMP-crs:PostCropVignetteAmount>0</XMP-crs:PostCropVignetteAmount>
+               <XMP-crs:ProcessVersion>15.4</XMP-crs:ProcessVersion>
+               <XMP-crs:RawFileName>IMG_1653_6_upplkurs-Enhanced-NR-1.dng</XMP-crs:RawFileName>
+               <XMP-crs:RedHue>0</XMP-crs:RedHue>
+               <XMP-crs:RedSaturation>0</XMP-crs:RedSaturation>
+               <XMP-crs:SDRBlend>0</XMP-crs:SDRBlend>
+               <XMP-crs:SDRBrightness>0</XMP-crs:SDRBrightness>
+               <XMP-crs:SDRClarity>0</XMP-crs:SDRClarity>
+               <XMP-crs:SDRContrast>0</XMP-crs:SDRContrast>
+               <XMP-crs:SDRHighlights>0</XMP-crs:SDRHighlights>
+               <XMP-crs:SDRShadows>0</XMP-crs:SDRShadows>
+               <XMP-crs:SDRWhites>0</XMP-crs:SDRWhites>
+               <XMP-crs:Saturation>-6</XMP-crs:Saturation>
+               <XMP-crs:SaturationAdjustmentAqua>0</XMP-crs:SaturationAdjustmentAqua>
+               <XMP-crs:SaturationAdjustmentBlue>0</XMP-crs:SaturationAdjustmentBlue>
+               <XMP-crs:SaturationAdjustmentGreen>0</XMP-crs:SaturationAdjustmentGreen>
+               <XMP-crs:SaturationAdjustmentMagenta>0</XMP-crs:SaturationAdjustmentMagenta>
+               <XMP-crs:SaturationAdjustmentOrange>0</XMP-crs:SaturationAdjustmentOrange>
+               <XMP-crs:SaturationAdjustmentPurple>0</XMP-crs:SaturationAdjustmentPurple>
+               <XMP-crs:SaturationAdjustmentRed>0</XMP-crs:SaturationAdjustmentRed>
+               <XMP-crs:SaturationAdjustmentYellow>0</XMP-crs:SaturationAdjustmentYellow>
+               <XMP-crs:ShadowTint>0</XMP-crs:ShadowTint>
+               <XMP-crs:Shadows2012>+13</XMP-crs:Shadows2012>
+               <XMP-crs:SharpenDetail>25</XMP-crs:SharpenDetail>
+               <XMP-crs:SharpenEdgeMasking>0</XMP-crs:SharpenEdgeMasking>
+               <XMP-crs:SharpenRadius>+1.0</XMP-crs:SharpenRadius>
+               <XMP-crs:Sharpness>40</XMP-crs:Sharpness>
+               <XMP-crs:SplitToningBalance>0</XMP-crs:SplitToningBalance>
+               <XMP-crs:SplitToningHighlightHue>0</XMP-crs:SplitToningHighlightHue>
+               <XMP-crs:SplitToningHighlightSaturation>0</XMP-crs:SplitToningHighlightSaturation>
+               <XMP-crs:SplitToningShadowHue>0</XMP-crs:SplitToningShadowHue>
+               <XMP-crs:SplitToningShadowSaturation>0</XMP-crs:SplitToningShadowSaturation>
+               <XMP-crs:ColorTemperature>3700</XMP-crs:ColorTemperature>
+               <XMP-crs:Texture>0</XMP-crs:Texture>
+               <XMP-crs:Tint>+21</XMP-crs:Tint>
+               <XMP-crs:ToneCurveName2012>Linear</XMP-crs:ToneCurveName2012>
+               <XMP-crs:ToneCurvePV2012>
+                  <rdf:Bag>
+                     <rdf:li>0, 0</rdf:li>
+                     <rdf:li>255, 255</rdf:li>
+                  </rdf:Bag>
+               </XMP-crs:ToneCurvePV2012>
+               <XMP-crs:ToneCurvePV2012Blue>
+                  <rdf:Bag>
+                     <rdf:li>0, 0</rdf:li>
+                     <rdf:li>255, 255</rdf:li>
+                  </rdf:Bag>
+               </XMP-crs:ToneCurvePV2012Blue>
+               <XMP-crs:ToneCurvePV2012Green>
+                  <rdf:Bag>
+                     <rdf:li>0, 0</rdf:li>
+                     <rdf:li>255, 255</rdf:li>
+                  </rdf:Bag>
+               </XMP-crs:ToneCurvePV2012Green>
+               <XMP-crs:ToneCurvePV2012Red>
+                  <rdf:Bag>
+                     <rdf:li>0, 0</rdf:li>
+                     <rdf:li>255, 255</rdf:li>
+                  </rdf:Bag>
+               </XMP-crs:ToneCurvePV2012Red>
+               <XMP-crs:Version>17.2</XMP-crs:Version>
+               <XMP-crs:Vibrance>+15</XMP-crs:Vibrance>
+               <XMP-crs:VignetteAmount>0</XMP-crs:VignetteAmount>
+               <XMP-crs:WhiteBalance>As Shot</XMP-crs:WhiteBalance>
+               <XMP-crs:Whites2012>-35</XMP-crs:Whites2012>
+               <XMP-dc:Creator>Internationella Kvinnoförbundet för Fred och Frihet</XMP-dc:Creator>
+               <XMP-dc:Description>Affischen är framtagen av Internationella Kvinnoförbundet för
+                  Fred och Frihet för att marknadsföra förbundets sjätte upplysningskurs som hölls i
+                  Stockholm den 7-9 januari 1930 samt i Uppsala den 10-11 januari 1930. Affischen
+                  utgör en del av Internationella Kvinnoförbundet för Fred och Frihets arkiv som
+                  förvaras i Humanistiska biblioteket i Göteborg. Ansvarig för arkivet vid
+                  Humanistiska biblioteket är KvinnSam. Affischen är tryckt av Oskar Eklunds
+                  boktryckeri i Stockholm 1929.</XMP-dc:Description>
+               <XMP-dc:Format>image/tiff</XMP-dc:Format>
+               <XMP-dc:Identifier>7-11 jan 1930.xml</XMP-dc:Identifier>
+               <XMP-dc:Rights>Denna bild är licensierad under Creative Commons BY-SA
+                  4.0</XMP-dc:Rights>
+               <XMP-dc:Subject>textaffischer; kvinnoförbund; kvinnoföreningar;
+                  kvinnorörelsen-historia; kvinnorörelsen; kvinnohistoria; kvinnor och fred;
+                  fredsrörelser; fredsbyggande; frivilligorganisationer; världsorganisation;
+                  internationella organisationer</XMP-dc:Subject>
+               <XMP-dc:Title>Sjätte Upplysningskursen</XMP-dc:Title>
+               <XMP-exif:ApertureValue>3.5</XMP-exif:ApertureValue>
+               <XMP-exif:ColorSpace>Uncalibrated</XMP-exif:ColorSpace>
+               <XMP-exif:CustomRendered>Normal</XMP-exif:CustomRendered>
+               <XMP-exif:DateTimeOriginal>2025:03:13 18:12:08</XMP-exif:DateTimeOriginal>
+               <XMP-exif:ExifVersion>0231</XMP-exif:ExifVersion>
+               <XMP-exif:ExposureCompensation>0</XMP-exif:ExposureCompensation>
+               <XMP-exif:ExposureMode>Auto</XMP-exif:ExposureMode>
+               <XMP-exif:ExposureProgram>Not Defined</XMP-exif:ExposureProgram>
+               <XMP-exif:ExposureTime>1/30</XMP-exif:ExposureTime>
+               <XMP-exif:FNumber>3.5</XMP-exif:FNumber>
+               <XMP-exif:FlashFired>False</XMP-exif:FlashFired>
+               <XMP-exif:FlashFunction>False</XMP-exif:FlashFunction>
+               <XMP-exif:FlashMode>Off</XMP-exif:FlashMode>
+               <XMP-exif:FlashRedEyeMode>False</XMP-exif:FlashRedEyeMode>
+               <XMP-exif:FlashReturn>No return detection</XMP-exif:FlashReturn>
+               <XMP-exif:FocalLength>21.0 mm</XMP-exif:FocalLength>
+               <XMP-exif:FocalPlaneResolutionUnit>inches</XMP-exif:FocalPlaneResolutionUnit>
+               <XMP-exif:FocalPlaneXResolution>5728.17679558011</XMP-exif:FocalPlaneXResolution>
+               <XMP-exif:FocalPlaneYResolution>5808.40336134454</XMP-exif:FocalPlaneYResolution>
+               <XMP-exif:ISO>100</XMP-exif:ISO>
+               <XMP-exif:Lens>EF-S18-55mm f/3.5-5.6 IS II</XMP-exif:Lens>
+               <XMP-exif:LensInfo>18</XMP-exif:LensInfo>
+               <XMP-exif:LensSerialNumber>0000727ca9</XMP-exif:LensSerialNumber>
+               <XMP-exif:MaxApertureValue>3.5</XMP-exif:MaxApertureValue>
+               <XMP-exif:MeteringMode>Multi-segment</XMP-exif:MeteringMode>
+               <XMP-exif:ExifImageWidth>2564</XMP-exif:ExifImageWidth>
+               <XMP-exif:ExifImageHeight>4402</XMP-exif:ExifImageHeight>
+               <XMP-exif:RecommendedExposureIndex>100</XMP-exif:RecommendedExposureIndex>
+               <XMP-exif:SceneCaptureType>Standard</XMP-exif:SceneCaptureType>
+               <XMP-exif:SensitivityType>2</XMP-exif:SensitivityType>
+               <XMP-exif:SerialNumber>373077013900</XMP-exif:SerialNumber>
+               <XMP-exif:ShutterSpeedValue>1/30</XMP-exif:ShutterSpeedValue>
+               <XMP-exif:SubSecTimeDigitized>42</XMP-exif:SubSecTimeDigitized>
+               <XMP-exif:SubSecTimeOriginal>42</XMP-exif:SubSecTimeOriginal>
+               <XMP-exif:WhiteBalance>Auto</XMP-exif:WhiteBalance>
+               <XMP-exifEX:LensModel>EF-S18-55mm f/3.5-5.6 IS II</XMP-exifEX:LensModel>
+               <XMP-photoshop:ColorMode>RGB</XMP-photoshop:ColorMode>
+               <XMP-photoshop:DateCreated>2025:03:13 18:12:08.042</XMP-photoshop:DateCreated>
+               <XMP-photoshop:ICCProfileName>Adobe RGB (1998)</XMP-photoshop:ICCProfileName>
+               <XMP-tiff:BitsPerSample>
+                  <rdf:Bag>
+                     <rdf:li>8</rdf:li>
+                     <rdf:li>8</rdf:li>
+                     <rdf:li>8</rdf:li>
+                  </rdf:Bag>
+               </XMP-tiff:BitsPerSample>
+               <XMP-tiff:Compression>Uncompressed</XMP-tiff:Compression>
+               <XMP-tiff:ImageHeight>3456</XMP-tiff:ImageHeight>
+               <XMP-tiff:ImageWidth>5184</XMP-tiff:ImageWidth>
+               <XMP-tiff:Make>Canon</XMP-tiff:Make>
+               <XMP-tiff:Model>Canon EOS 600D</XMP-tiff:Model>
+               <XMP-tiff:Orientation>Horizontal (normal)</XMP-tiff:Orientation>
+               <XMP-tiff:PhotometricInterpretation>RGB</XMP-tiff:PhotometricInterpretation>
+               <XMP-tiff:PlanarConfiguration>Chunky</XMP-tiff:PlanarConfiguration>
+               <XMP-tiff:ResolutionUnit>inches</XMP-tiff:ResolutionUnit>
+               <XMP-tiff:SamplesPerPixel>3</XMP-tiff:SamplesPerPixel>
+               <XMP-tiff:XResolution>300</XMP-tiff:XResolution>
+               <XMP-tiff:YResolution>300</XMP-tiff:YResolution>
+               <XMP-xmp:CreateDate>1929</XMP-xmp:CreateDate>
+               <XMP-xmp:CreatorTool>Adobe Photoshop Camera Raw 17.2
+                  (Macintosh)</XMP-xmp:CreatorTool>
+               <XMP-xmp:MetadataDate>2025:04:26 21:26:28+02:00</XMP-xmp:MetadataDate>
+               <XMP-xmp:ModifyDate>2025:04:26 21:26:28+02:00</XMP-xmp:ModifyDate>
+               <XMP-xmpMM:DerivedFromDocumentID>xmp.did:e40b6262-5145-4347-b5f8-7ddd632b7c9c</XMP-xmpMM:DerivedFromDocumentID>
+               <XMP-xmpMM:DerivedFromInstanceID>xmp.iid:e40b6262-5145-4347-b5f8-7ddd632b7c9c</XMP-xmpMM:DerivedFromInstanceID>
+               <XMP-xmpMM:DerivedFromOriginalDocumentID>F57E14F4A073DDF8F794D4D491AB5DFE</XMP-xmpMM:DerivedFromOriginalDocumentID>
+               <XMP-xmpMM:DocumentID>adobe:docid:photoshop:ef065bb8-602b-ec4c-91fe-ca8925488198</XMP-xmpMM:DocumentID>
+               <XMP-xmpMM:HistoryAction>
+                  <rdf:Bag>
+                     <rdf:li>derived</rdf:li>
+                     <rdf:li>saved</rdf:li>
+                     <rdf:li>derived</rdf:li>
+                     <rdf:li>saved</rdf:li>
+                     <rdf:li>saved</rdf:li>
+                  </rdf:Bag>
+               </XMP-xmpMM:HistoryAction>
+               <XMP-xmpMM:HistoryParameters>
+                  <rdf:Bag>
+                     <rdf:li>converted from image/x-canon-cr2 to image/dng, saved to new
+                        location</rdf:li>
+                     <rdf:li>converted from image/dng to image/tiff, saved to new location</rdf:li>
+                  </rdf:Bag>
+               </XMP-xmpMM:HistoryParameters>
+               <XMP-xmpMM:HistoryChanged>
+                  <rdf:Bag>
+                     <rdf:li>/</rdf:li>
+                     <rdf:li>/</rdf:li>
+                     <rdf:li>/</rdf:li>
+                  </rdf:Bag>
+               </XMP-xmpMM:HistoryChanged>
+               <XMP-xmpMM:HistoryInstanceID>
+                  <rdf:Bag>
+                     <rdf:li>xmp.iid:e40b6262-5145-4347-b5f8-7ddd632b7c9c</rdf:li>
+                     <rdf:li>xmp.iid:63f591a3-0c48-43bb-a5c6-f1670c9961a4</rdf:li>
+                     <rdf:li>xmp.iid:25803e1c-d41c-48f8-a962-1eb25cf4b1f7</rdf:li>
+                  </rdf:Bag>
+               </XMP-xmpMM:HistoryInstanceID>
+               <XMP-xmpMM:HistorySoftwareAgent>
+                  <rdf:Bag>
+                     <rdf:li>Adobe Photoshop Camera Raw 17.2 (Macintosh)</rdf:li>
+                     <rdf:li>Adobe Photoshop Camera Raw 17.2 (Macintosh)</rdf:li>
+                     <rdf:li>Adobe Photoshop 26.3 (Macintosh)</rdf:li>
+                  </rdf:Bag>
+               </XMP-xmpMM:HistorySoftwareAgent>
+               <XMP-xmpMM:HistoryWhen>
+                  <rdf:Bag>
+                     <rdf:li>2025:04:26 20:25:35+02:00</rdf:li>
+                     <rdf:li>2025:04:26 20:42:29+02:00</rdf:li>
+                     <rdf:li>2025:04:26 21:26:28+02:00</rdf:li>
+                  </rdf:Bag>
+               </XMP-xmpMM:HistoryWhen>
+               <XMP-xmpMM:InstanceID>xmp.iid:25803e1c-d41c-48f8-a962-1eb25cf4b1f7</XMP-xmpMM:InstanceID>
+               <XMP-xmpMM:OriginalDocumentID>F57E14F4A073DDF8F794D4D491AB5DFE</XMP-xmpMM:OriginalDocumentID>
+               <IPTC:CodedCharacterSet>UTF8</IPTC:CodedCharacterSet>
+               <IPTC:ApplicationRecordVersion>4</IPTC:ApplicationRecordVersion>
+               <IPTC:DateCreated>2025:03:13</IPTC:DateCreated>
+               <IPTC:TimeCreated>18:12:08</IPTC:TimeCreated>
+               <IPTC:DigitalCreationDate>2025:03:13</IPTC:DigitalCreationDate>
+               <Photoshop:IPTCDigest>1902f82c9e9cd64673838f4cf70cabbb</Photoshop:IPTCDigest>
+               <Photoshop:XResolution>300</Photoshop:XResolution>
+               <Photoshop:DisplayedUnitsX>inches</Photoshop:DisplayedUnitsX>
+               <Photoshop:YResolution>300</Photoshop:YResolution>
+               <Photoshop:DisplayedUnitsY>inches</Photoshop:DisplayedUnitsY>
+               <Photoshop:PrintStyle>Centered</Photoshop:PrintStyle>
+               <Photoshop:PrintPosition>0 0</Photoshop:PrintPosition>
+               <Photoshop:PrintScale>1</Photoshop:PrintScale>
+               <Photoshop:GlobalAngle>4294967236</Photoshop:GlobalAngle>
+               <Photoshop:GlobalAltitude>30</Photoshop:GlobalAltitude>
+               <Photoshop:URL_List>
+                  <rdf:Bag> </rdf:Bag>
+               </Photoshop:URL_List>
+               <Photoshop:SlicesGroupName>Poster_1_final</Photoshop:SlicesGroupName>
+               <Photoshop:NumSlices>1</Photoshop:NumSlices>
+               <Photoshop:PixelAspectRatio>1</Photoshop:PixelAspectRatio>
+               <Photoshop:PhotoshopThumbnail>(Binary data 3490 bytes, use -b option to
+                  extract)</Photoshop:PhotoshopThumbnail>
+               <Photoshop:HasRealMergedData>Yes</Photoshop:HasRealMergedData>
+               <Photoshop:WriterName>Adobe Photoshop</Photoshop:WriterName>
+               <Photoshop:ReaderName>Adobe Photoshop 2025</Photoshop:ReaderName>
+               <Photoshop:LayerCount>1</Photoshop:LayerCount>
+               <Photoshop:LayerRectangles>0 0 4402 2564</Photoshop:LayerRectangles>
+               <Photoshop:LayerBlendModes>Normal</Photoshop:LayerBlendModes>
+               <Photoshop:LayerOpacities>100%</Photoshop:LayerOpacities>
+               <Photoshop:LayerVisible>Yes</Photoshop:LayerVisible>
+               <Photoshop:LayerNames>Layer 0</Photoshop:LayerNames>
+               <Photoshop:LayerUnicodeNames>Layer 0</Photoshop:LayerUnicodeNames>
+               <Photoshop:LayerColors>None</Photoshop:LayerColors>
+               <Photoshop:LayerModifyDates>2025:04:26 21:26:30+02:00</Photoshop:LayerModifyDates>
+               <ExifIFD:ExposureTime>1/30</ExifIFD:ExposureTime>
+               <ExifIFD:FNumber>3.5</ExifIFD:FNumber>
+               <ExifIFD:ExposureProgram>Not Defined</ExifIFD:ExposureProgram>
+               <ExifIFD:ISO>100</ExifIFD:ISO>
+               <ExifIFD:SensitivityType>Recommended Exposure Index</ExifIFD:SensitivityType>
+               <ExifIFD:RecommendedExposureIndex>100</ExifIFD:RecommendedExposureIndex>
+               <ExifIFD:ExifVersion>0231</ExifIFD:ExifVersion>
+               <ExifIFD:DateTimeOriginal>2025:03:13 18:12:08</ExifIFD:DateTimeOriginal>
+               <ExifIFD:CreateDate>2025:03:13 18:12:08</ExifIFD:CreateDate>
+               <ExifIFD:OffsetTime>+02:00</ExifIFD:OffsetTime>
+               <ExifIFD:ShutterSpeedValue>1/30</ExifIFD:ShutterSpeedValue>
+               <ExifIFD:ApertureValue>3.5</ExifIFD:ApertureValue>
+               <ExifIFD:ExposureCompensation>0</ExifIFD:ExposureCompensation>
+               <ExifIFD:MaxApertureValue>3.5</ExifIFD:MaxApertureValue>
+               <ExifIFD:MeteringMode>Multi-segment</ExifIFD:MeteringMode>
+               <ExifIFD:Flash>Off, Did not fire</ExifIFD:Flash>
+               <ExifIFD:FocalLength>21.0 mm</ExifIFD:FocalLength>
+               <ExifIFD:SubSecTimeOriginal>42</ExifIFD:SubSecTimeOriginal>
+               <ExifIFD:SubSecTimeDigitized>42</ExifIFD:SubSecTimeDigitized>
+               <ExifIFD:ColorSpace>Uncalibrated</ExifIFD:ColorSpace>
+               <ExifIFD:ExifImageWidth>2564</ExifIFD:ExifImageWidth>
+               <ExifIFD:ExifImageHeight>4402</ExifIFD:ExifImageHeight>
+               <ExifIFD:FocalPlaneXResolution>5728.176796</ExifIFD:FocalPlaneXResolution>
+               <ExifIFD:FocalPlaneYResolution>5808.403361</ExifIFD:FocalPlaneYResolution>
+               <ExifIFD:FocalPlaneResolutionUnit>inches</ExifIFD:FocalPlaneResolutionUnit>
+               <ExifIFD:CustomRendered>Normal</ExifIFD:CustomRendered>
+               <ExifIFD:ExposureMode>Auto</ExifIFD:ExposureMode>
+               <ExifIFD:WhiteBalance>Auto</ExifIFD:WhiteBalance>
+               <ExifIFD:SceneCaptureType>Standard</ExifIFD:SceneCaptureType>
+               <ExifIFD:SerialNumber>373077013900</ExifIFD:SerialNumber>
+               <ExifIFD:LensInfo>18-55mm f/?</ExifIFD:LensInfo>
+               <ExifIFD:LensModel>EF-S18-55mm f/3.5-5.6 IS II</ExifIFD:LensModel>
+               <ExifIFD:LensSerialNumber>0000727ca9</ExifIFD:LensSerialNumber>
+               <ICC-header:ProfileCMMType>Adobe Systems Inc.</ICC-header:ProfileCMMType>
+               <ICC-header:ProfileVersion>2.1.0</ICC-header:ProfileVersion>
+               <ICC-header:ProfileClass>Display Device Profile</ICC-header:ProfileClass>
+               <ICC-header:ColorSpaceData>RGB </ICC-header:ColorSpaceData>
+               <ICC-header:ProfileConnectionSpace>XYZ </ICC-header:ProfileConnectionSpace>
+               <ICC-header:ProfileDateTime>1999:06:03 00:00:00</ICC-header:ProfileDateTime>
+               <ICC-header:ProfileFileSignature>acsp</ICC-header:ProfileFileSignature>
+               <ICC-header:PrimaryPlatform>Apple Computer Inc.</ICC-header:PrimaryPlatform>
+               <ICC-header:CMMFlags>Not Embedded, Independent</ICC-header:CMMFlags>
+               <ICC-header:DeviceManufacturer>none</ICC-header:DeviceManufacturer>
+               <ICC-header:DeviceModel/>
+               <ICC-header:DeviceAttributes>Reflective, Glossy, Positive,
+                  Color</ICC-header:DeviceAttributes>
+               <ICC-header:RenderingIntent>Perceptual</ICC-header:RenderingIntent>
+               <ICC-header:ConnectionSpaceIlluminant>0.9642 1
+                  0.82491</ICC-header:ConnectionSpaceIlluminant>
+               <ICC-header:ProfileCreator>Adobe Systems Inc.</ICC-header:ProfileCreator>
+               <ICC-header:ProfileID>0</ICC-header:ProfileID>
+               <ICC_Profile:ProfileCopyright>Copyright 1999 Adobe Systems
+                  Incorporated</ICC_Profile:ProfileCopyright>
+               <ICC_Profile:ProfileDescription>Adobe RGB (1998)</ICC_Profile:ProfileDescription>
+               <ICC_Profile:MediaWhitePoint>0.95045 1 1.08905</ICC_Profile:MediaWhitePoint>
+               <ICC_Profile:MediaBlackPoint>0 0 0</ICC_Profile:MediaBlackPoint>
+               <ICC_Profile:RedTRC>(Binary data 14 bytes, use -b option to
+                  extract)</ICC_Profile:RedTRC>
+               <ICC_Profile:GreenTRC>(Binary data 14 bytes, use -b option to
+                  extract)</ICC_Profile:GreenTRC>
+               <ICC_Profile:BlueTRC>(Binary data 14 bytes, use -b option to
+                  extract)</ICC_Profile:BlueTRC>
+               <ICC_Profile:RedMatrixColumn>0.60974 0.31111 0.01947</ICC_Profile:RedMatrixColumn>
+               <ICC_Profile:GreenMatrixColumn>0.20528 0.62567
+                  0.06087</ICC_Profile:GreenMatrixColumn>
+               <ICC_Profile:BlueMatrixColumn>0.14919 0.06322 0.74457</ICC_Profile:BlueMatrixColumn>
+               <Composite:Aperture>3.5</Composite:Aperture>
+               <Composite:ImageSize>2564x4402</Composite:ImageSize>
+               <Composite:Megapixels>11.3</Composite:Megapixels>
+               <Composite:ScaleFactor35efl>1.6</Composite:ScaleFactor35efl>
+               <Composite:ShutterSpeed>1/30</Composite:ShutterSpeed>
+               <Composite:SubSecCreateDate>2025:03:13 18:12:08.42</Composite:SubSecCreateDate>
+               <Composite:SubSecDateTimeOriginal>2025:03:13
+                  18:12:08.42</Composite:SubSecDateTimeOriginal>
+               <Composite:SubSecModifyDate>2025:04:26 21:26:28+02:00</Composite:SubSecModifyDate>
+               <Composite:DateTimeCreated>2025:03:13 18:12:08</Composite:DateTimeCreated>
+               <Composite:Flash>Off, Did not fire</Composite:Flash>
+               <Composite:CircleOfConfusion>0.019 mm</Composite:CircleOfConfusion>
+               <Composite:DOF>0.26 m (0.82 - 1.08 m)</Composite:DOF>
+               <Composite:FOV>57.2 deg</Composite:FOV>
+               <Composite:FocalLength35efl>21.0 mm (35 mm equivalent: 33.0
+                  mm)</Composite:FocalLength35efl>
+               <Composite:HyperfocalDistance>6.60 m</Composite:HyperfocalDistance>
+               <Composite:LightValue>8.5</Composite:LightValue>
+               <Composite:LensID>Canon EF-S 18-55mm f/3.5-5.6 IS II</Composite:LensID>
+            </rdf:Description>
+         </rdf:RDF>
+      </xenoData>
+      <profileDesc>
+         <langUsage>
+            <language ident="swe">Swedish</language>
+         </langUsage>
+         <textDesc>
+            <channel>"tryck"</channel>
+            <constitution>"affisch"</constitution>
+            <derivation>"original"</derivation>
+            <domain type="publicity">"publik"</domain>
+            <factuality>"faktuell"</factuality>
+            <interaction type="none">"envägskommunikation</interaction>
+            <preparedness>"planerad"</preparedness>
+            <purpose>"informera"</purpose>
+         </textDesc>
+         <textClass>
+            <keywords scheme="https://id.kb.se/term/sao/">
+               <list>
+                  <item><ref target="https://id.kb.se/term/gmgpc/swe/Textaffischer"
+                        >textaffischer</ref>
+                  </item>
+                  <item><ref target="https://id.kb.se/term/sao/Affischer">affischer</ref>
+                  </item>
+                  <item><ref target="https://id.kb.se/term/sao/Kvinnof%C3%B6rbund"
+                        >kvinnoförbund</ref>
+                  </item>
+                  <item><ref target="https://id.kb.se/term/sao/Kvinnof%C3%B6reningar"
+                        >kvinnoföreningar</ref>
+                  </item>
+                  <item><ref target="https://id.kb.se/term/sao/Kvinnor%C3%B6relsen--historia"
+                        >kvinnorörelsen--historia</ref>
+                  </item>
+                  <item><ref target="https://id.kb.se/term/sao/Kvinnor%C3%B6relsen"
+                        >kvinnorörelsen</ref>
+                  </item>
+                  <item><ref target="https://id.kb.se/term/sao/Kvinnohistoria">kvinnohistoria</ref>
+                  </item>
+                  <item><ref target="https://id.kb.se/term/sao/Kvinnor%20och%20fred">kvinnor och
+                        fred</ref>
+                  </item>
+                  <item><ref target="https://id.kb.se/term/sao/Fredsr%C3%B6relser"
+                        >fredsrörelser</ref>
+                  </item>
+                  <item><ref target="https://id.kb.se/term/sao/Fredsbyggande">fredsbyggande</ref>
+                  </item>
+                  <item><ref target="https://id.kb.se/term/sao/Frivilligorganisationer"
+                        >frivilligorganisationer</ref>
+                  </item>
+                  <item><ref target="https://id.kb.se/term/sao/V%C3%A4rldsorganisation"
+                        >världsorganisation</ref>
+                  </item>
+                  <item><ref target="https://id.kb.se/term/sao/Internationella%20organisationer"
+                        >internationella organisationer</ref>
+                  </item>
+               </list>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change when="2025-04-28">Originalversion upprättad</change>
+      </revisionDesc>
+   </teiHeader>
+   <facsimile>
+      <surface xml:id="Poster_1_final_IMG_1653_6_">
+         <figure>
+            <label>Upplysningskurs i Stockholm-Uppsala den 7—11 januari 1930</label>
+            <figDesc> Ett fotografi som föreställer den affisch Internationella Kvinnoförundet tog
+               fram för att marknadsföra förbundets sjätte upplysningskurs som hölls i
+               Stockholm-Uppsala den 7—11 januari 1930. </figDesc>
+            <graphic xml:id="Poster_1_final_IMG_1653_6_web.png"
+               url="Poster_1_final_IMG_1653_6_web.png"/>
+         </figure>
+      </surface>
+   </facsimile>
+   <text>
+      <body>
+         <head>Sjätte upplysningskursen 1930</head>
+         <div type="section">
+            <head rend="align(center)"><orgName><hi rend="underscore"><hi rend="bold"
+                        >Internationella Kvinnoförbundet för Fred och
+               Frihet.</hi></hi></orgName></head>
+         </div>
+         <div type="section">
+            <head rend="align(center)"><hi rend="underscore"><hi rend="bold">Sjätte
+                     Upplysningskursen.</hi></hi></head>
+         </div>
+         <div type="section">
+            <p rend="align(center)"><hi rend="bold">i <placeName>Stockholm-Uppsala</placeName>
+                  <date from="1930-01-07" to="1930-01-11">den 7—11 januari 1930</date></hi></p>
+         </div>
+         <div type="section">
+            <p><hi rend="bold"><placeName>Stockholm</placeName><date from="1930-01-07"
+                     to="1930-01-09">(den 7—9 jan.)</date><placeName>Läkaresällskapets stora
+                     sal</placeName>,<lb/>
+                  <seg type="address">Klara Östra Kyrkogata 10,<lb/></seg> såvitt ej annat nedan
+                  angives.<lb/> Föredrag <time from="10:00:00" to="13:00:00"> kl. 10 f. m.— 1 e. m.
+                  </time> samt <time from="14:30:00" to="17:00:00">kl. 2,30-5 e. m.</time></hi></p>
+         </div>
+         <div type="section">
+            <p rend="align(center)"><hi rend="bold"><placeName>Uppsala</placeName><date
+                     from="1930-01-10" to="1930-01-11">(den 10—11 jan.)</date>
+                  <placeName>Universitetet, Lärosal X</placeName>.</hi></p>
+         </div>
+         <div type="section">
+            <head rend="align(center)"><hi rend="bold"><placeName>Stockholm</placeName></hi></head>
+            <head><hi rend="bold"><date when="1930-01-07">Tisdag 7 jan.</date> kl. 10 f.
+               m.</hi></head>
+            <list type="ordered">
+               <item>Musik av Damkvartetten. <lb/>
+               </item>
+               <item>Minnen och gestalter från Freds och Frihets tio första år,<ref
+                     target="https://sv.wikipedia.org/wiki/Matilda_Widegren">fröken Matilda
+                     Widegren</ref>.<lb/>
+               </item>
+               <item>Kyrkans insats för mänsklighetens enande (2 föreläsningar), <ref
+                     target="https://sv.wikipedia.org/wiki/Paul_Sandegren">pastor Paul
+                     Sandegren</ref>.<lb/>
+               </item>
+               <item>Efterkrigslitteraturen och den nya generationen, <ref
+                     target="https://sv.wikipedia.org/wiki/Sven_Stolpe">fil. lic. Sven Stolpe
+                  </ref>.<lb/>
+               </item>
+               <item>De internationella kartellerna och trusterna, <ref
+                     target="https://sv.wikipedia.org/wiki/Thorsten_Odhe">redaktör Thorsten
+                     Odhe</ref>.<lb/>
+               </item>
+            </list>
+         </div>
+         <div type="section">
+            <head><hi rend="bold"><date when="1930-01-08">Onsdag 8 jan.</date>
+                  <time when="14:30:00">kl. 2,30 e. m.</time></hi></head>
+            <list type="ordered">
+               <item>Ekonomiskt samarbete i Europa (2 föreläsningar), kanslichefen <persName>Per
+                     Jacobson</persName>.<lb/>
+               </item>
+               <item>Nationernas förbunds 10:de församling (ljusbilder), <ref
+                     target="https://sv.wikipedia.org/wiki/Elisabet_Eur%C3%A9n">lektor Elisabet
+                     Eurén</ref>.<lb/>
+               </item>
+               <item><hi rend="bold">Kl. 8 e. m. Aftonmöte i <placeName>K. F. U. M:s
+                        hörsal</placeName>.</hi><lb/>
+               </item>
+               <item>Internationella Kvinnoförbundets för Fred och Frihet försoningsarbete på
+                  Balkan, <ref target="https://en.wikipedia.org/wiki/Camille_Drevet">M:me Camille
+                     Drevet</ref>.<lb/>
+                  <hi rend="small"><add place="interlinear">Föredraget, som hålles på franska,
+                        tolkas av <ref target="https://sv.wikipedia.org/wiki/Karl_Fries"> dr Karl
+                           Fries</ref>.</add></hi>
+                  <lb/>
+               </item>
+               <item>Civilisationsarbete i Marocko, <ref
+                     target="https://sv.wikipedia.org/wiki/Marika_Stiernstedt">förf. Marika
+                     Stiernstedt</ref>.<lb/></item>
+            </list>
+         </div>
+         <div type="section">
+            <head><hi rend="bold"><date when="1930-01-09">Torsdag 9 jan. </date>
+                  <time when="10:00:00">kl. 10 f. m.</time>
+               </hi></head>
+            <list type="ordered">
+               <item>Balkanländerna och fredsrörelsen, <ref
+                     target="https://sv.wikipedia.org/wiki/Carl_Lindhagen"> borgmästare Carl
+                     Lindhagen</ref>.<lb/>
+               </item>
+               <item>Ekonomisk nedrustning, <ref target="https://sv.wikipedia.org/wiki/Bertil_Ohlin"
+                     > professor Bertil Ohlin</ref>.<lb/>
+               </item>
+               <item>Palestina efter världskriget (2 föreläsningar, ljusbilder), <ref
+                     target="https://sv.wikipedia.org/wiki/Sven_Linder_(teolog)">professor Sven
+                     Linder</ref>.<lb/>
+               </item>
+               <item>Die Völker Russlands (2 föreläsningar), <persName>Sergej Vasiljevitj
+                     Dmitrievski</persName>.<lb/>
+                  <hi rend="small"><add place="interlinear">Föredragen tolkas av <ref
+                           target="https://sv.wikipedia.org/wiki/Ivan_Pauli"> lektor Ivan
+                           Pauli</ref>.</add></hi>
+                  <lb/>
+               </item>
+               <item><hi rend="bold"><time when="20:00:00">Kl. 8 e. m. </time>Aftonmöte i
+                        <placeName>K. F. U. M:s hörsal</placeName>.</hi>
+                  <lb/>
+               </item>
+               <item>Skapande eller ödeläggande mentalitet hos den nya generationen? <ref
+                     target="https://sv.wikipedia.org/wiki/Alf_Ahlberg">dr. Alf Ahlberg</ref>.<lb/>
+               </item>
+               <item>Korta anföranden av representanter<lb/> från ungdomsföreningar, som arbeta för
+                  fred.</item>
+            </list>
+         </div>
+         <div type="section">
+            <head rend="align(center)"><placeName>Uppsala</placeName>.</head>
+            <head><hi rend="bold"><date when="1930-01-10">Fredag 10 jan.</date>
+                  <time when="12:00:00">kl. 12.</time>
+               </hi></head>
+            <list type="ordered">
+               <item>Aktuella strävanden inom Nationernas förbund, <ref
+                     target="https://sv.wikipedia.org/wiki/%C3%96sten_Und%C3%A9n"> professor Östen
+                     Undén</ref>.<lb/>
+               </item>
+               <item>Den fasta mellanfolkliga domstolen, <ref
+                     target="https://sv.wikipedia.org/wiki/%C3%85ke_Holmb%C3%A4ck">professor Åke
+                     Holmbäck</ref>.<lb/>
+               </item>
+               <item>Internationella arbetsbyrån i Genève, <ref
+                     target="https://sv.wikipedia.org/wiki/Arvid_Thorberg">riksdagsman Arvid
+                     Thorberg</ref>.</item>
+            </list>
+         </div>
+         <div type="section">
+            <head><hi rend="bold"><date when="1930-01-11">Lördag 11 jan.</date>
+                  <time when="10:00:00"> kl. 10 f. m.</time>
+               </hi></head>
+            <list type="ordered">
+               <item>Vetenskap och fred, professor <ref
+                     target="https://sv.wikipedia.org/wiki/Robert_B%C3%A1r%C3%A1ny">Robert
+                     Bárány</ref>.<lb/>
+               </item>
+               <item>Delegationen till Kina 1927-1928, <ref
+                     target="https://en.wikipedia.org/wiki/Camille_Drevet">M:me Camille Drevet</ref>.<lb/>
+                  <hi rend="small"><add place="interlinear">Föredraget, som hålles på franska,
+                        kommer att tolkas.</add></hi>
+                  <lb/>
+               </item>
+               <item>Efterkrigsvärlden och de unga, <ref
+                     target="https://sv.wikipedia.org/wiki/Anna_Lenah_Elgstr%C3%B6m">förf. Anna
+                     Lenah Elgström-Collijn</ref>.<lb/></item>
+               <item>- - -</item>
+               <item>Avslutningsord.<lb/>
+               </item>
+               <item><hi rend="bold"><time when="19:00:00">Kl. 7 e. m.</time>Vesper
+                        i<placeName>Uppsala domkyrka</placeName>.</hi>
+                  <ref target="https://sv.wikipedia.org/wiki/Tor_Andr%C3%A6">Professor Tor
+                     Andræ</ref>. </item>
+            </list>
+         </div>
+         <div type="section">
+            <p><hi rend="bold">Anmälningar mottagas <time from="12:00:00" to="16:00:00">kl. 12-4 e.
+                     m.</time> à Internationella Kvinnoförbundets för Fred och Frihet byrå,<seg
+                     type="address">David Baga-<lb/> res gata 9-11, 2 tr., Stockholm, tel. Norr 117
+                     20</seg> samt i <placeName>Uppsala</placeName> av fru <persName>Hedvig
+                     Torbiörnsson</persName>, <seg type="address">Tegnérgatan 26, tel.<lb/> Uppsala
+                     22 35</seg>. I <placeName>Uppsala</placeName> hålles byrå öppen å Universitetet
+                  från och med den <date>9 januari</date>.<lb/> Kursavgift för hela kursen <measure
+                     type="currency">5 kr.</measure>, enbart för dagarna i
+                     <placeName>Stockholm</placeName>
+                  <measure type="currency">3 kr.</measure>, för dagarna i
+                     <placeName>Uppsala</placeName>
+                  <measure type="currency">2 kr</measure>. Halv-<lb/> dagsbiljett <measure
+                     type="currency">75 öre</measure>, för aftonmöte <measure type="currency">75
+                     öre</measure>.</hi>
+            </p>
+         </div>
+         <div type="section">
+            <p><hi rend="small"><placeName>Stockholm</placeName><orgName>Oskar Eklunds
+                     Boktryckeri</orgName>,<date>1929</date></hi>
+            </p>
+         </div>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Affischer ur IKFF:s arkiv</title>
+            <respStmt>
+               <resp>Kodning</resp>
+               <persName><forename>Ellinor</forename><surname>Sjöblom</surname></persName>
+               <persName><forename>Veronica</forename><surname>Zander</surname></persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Borås högskola</publisher>
+            <authority>
+               <persName><forename>Ellinor</forename><surname>Sjöblom</surname></persName>
+               <persName><forename>Nanna</forename><surname>Stig Meyer</surname></persName>
+               <persName><forename>Kateryna</forename><surname>Virko</surname></persName>
+               <persName><forename>Veronica</forename><surname>Zander</surname></persName>
+            </authority>
+            <date when="2025-05-03">2025</date>
+            <availability>
+               <p>Detta material är licenserat under CC-BY-SA 4.0.</p>
+               <licence target="https://creativecommons.org/licenses/by-sa/4.0/"> </licence>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <note>Texten på denna sida bygger på information inhämtad från nedanstående
+                  källor.</note>
+               <title>Nationalism i fredens tjänst - Svenska skolornas fredsförening, fredsfostran
+                  och historieundervisning 1919–1939</title>
+               <author>Ingela Nilsson</author>
+               <date when="2025-05-02">Läst 2025-05-02</date>
+               <ref
+                  target="https://www.laraforfred.se/wp-content/uploads/2015/05/Ingela-Nilssons-avhandling-FULLTEXT01.pdf"
+                  >https://www.laraforfred.se/wp-content/uploads/2015/05/Ingela-Nilssons-avhandling-FULLTEXT01.pdf</ref>
+               <title>Lysistrates döttrar - Pionjärer och pedagoger i två kvinnliga
+                  fredsorganisationer (1898-1937)</title>
+               <author>Inga-Brita Melin</author>
+               <date when="2025-05-02">Läst 2025-05-02</date>
+               <ref target="https://umu.diva-portal.org/smash/get/diva2:156243/FULLTEXT02.pdf"
+                  >https://umu.diva-portal.org/smash/get/diva2:156243/FULLTEXT02.pdf</ref>
+               <title>Vår historia</title>
+               <author>Internationella Kvinnoförbundet för Fred och Frihet</author>
+               <date when="2025-05-02">Läst 2025-05-02</date>
+               <ref target="https://ikff.se/om-oss/om-ikff/historia/"
+                  >https://ikff.se/om-oss/om-ikff/historia/">https://ikff.se/om-oss/om-ikff/historia/">https://ikff.se/om-oss/om-ikff/historia/</ref>
+               <title>Maria Matilda Aurora Widegren</title>
+               <author>Irene Andersson</author>
+               <date when="2025-05-02">Läst 2025-05-02</date>
+               <ref target="https://skbl.se/sv/artikel/MariaMatildaAuroraWidegrenWidegren"
+                  >https://skbl.se/sv/artikel/MariaMatildaAuroraWidegrenWidegren</ref>
+               <title>Om KvinnSam</title>
+               <author>Kvinnsam</author>
+               <date when="2025-05-02">Läst 2025-05-02</date>
+               <ref target="https://www2.ub.gu.se/kvinn/om_kvinnsam/"
+                  >https://www2.ub.gu.se/kvinn/om_kvinnsam/</ref>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="swe">Swedish</language>
+         </langUsage>
+         <textDesc>
+            <channel>"digital"</channel>
+            <constitution>"fristående"</constitution>
+            <derivation>"original"</derivation>
+            <domain type="publicity">"publik"</domain>
+            <factuality>"faktuell"</factuality>
+            <interaction type="none">"envägskommunikation"</interaction>
+            <preparedness>"planerad"</preparedness>
+            <purpose>"informera"</purpose>
+         </textDesc>
+         <textClass>
+            <keywords scheme="https://id.kb.se/term/sao/">
+               <list>
+                  <item><ref target="https://id.kb.se/term/sao/Kvinnof%C3%B6rbund"
+                        >kvinnoförbund</ref>
+                  </item>
+                  <item><ref target="https://id.kb.se/term/sao/Kvinnof%C3%B6reningar"
+                        >kvinnoföreningar</ref>
+                  </item>
+                  <item><ref target="https://id.kb.se/term/sao/Kvinnor%C3%B6relsen--historia"
+                        >kvinnorörelsen--historia</ref>
+                  </item>
+                  <item><ref target="https://id.kb.se/term/sao/Kvinnor%C3%B6relsen"
+                        >kvinnorörelsen</ref>
+                  </item>
+                  <item><ref target="https://id.kb.se/term/sao/Kvinnohistoria">kvinnohistoria</ref>
+                  </item>
+                  <item><ref target="https://id.kb.se/term/sao/Kvinnor%20och%20fred">kvinnor och
+                        fred</ref>
+                  </item>
+                  <item><ref target="https://id.kb.se/term/sao/Fredsr%C3%B6relser"
+                        >fredsrörelser</ref>
+                  </item>
+                  <item><ref target="https://id.kb.se/term/sao/Fredsbyggande">fredsbyggande</ref>
+                  </item>
+                  <item><ref target="https://id.kb.se/term/sao/Frivilligorganisationer"
+                        >frivilligorganisationer</ref>
+                  </item>
+                  <item><ref target="https://id.kb.se/term/sao/V%C3%A4rldsorganisation"
+                        >världsorganisation</ref>
+                  </item>
+                  <item><ref target="https://id.kb.se/term/sao/Internationella%20organisationer"
+                        >internationella organisationer</ref>
+                  </item>
+               </list>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <head>Affischer ur IKFF:s arkiv</head>
+         <p>Under den internationella Kvinnokongressen i Haag 1915 samlades 1 136 delegater för att
+            protestera mot första världskriget. På plats i Haag fanns en svensk delegation bestående
+            av 16 kvinnor, bland annat <ref target="https://sv.wikipedia.org/wiki/Anna_Kleman">Anna
+               Kleman</ref>, <ref target="https://sv.wikipedia.org/wiki/Matilda_Widegren">Matilda
+               Widegren</ref> samt <ref target="https://sv.wikipedia.org/wiki/Elin_W%C3%A4gner">Elin
+               Wägner</ref>. Under kongressen bildades förbundet International Committee of Women
+            för Permanent Peace (ICWPP). Till ordförande för förbundets svenska sektion utsågs Anna
+            Kleman.</p>
+         <p>Efter krigsslutet 1919 ombildades ICWPP och antog i och med ombildandet ett nytt namn,
+               <ref
+               target="https://sv.wikipedia.org/wiki/Internationella_kvinnof%C3%B6rbundet_f%C3%B6r_fred_och_frihet"
+               >Women´s International League for Peace and Freedom (WILPF)</ref>.<ref
+               target="https://sv.wikipedia.org/wiki/Jane_Addams"/>Jane Addams utsågs till
+            förbundets internationella ordförande medan Matilda Widegren valdes till ordförande för
+            den svenska sektionen som antog namnet <ref target="https://ikff.se/">Internationella
+               Kvinnoförbundet för Fred och Frihet (IKFF)</ref>.</p>
+         <p>WILPF ett feministiskt, globalt fredsförbund som aktivt arbetar för att förebygga
+            väpnade konflikter och krig och finns representerade i över 40 länder.</p>
+         <p> Det var Matilda Widegren, IKFF:s ordförande mellan åren 1919 och 1934, som initierade
+            förbundets upplysningskurser. Upplysningskurserna startade 1925 i Stockholm som små
+            studiegrupper och spreds snart till andra delar av landet. Upplysningskurserna utgjorde
+            en viktig del av förbundets fredspedagogiska arbete och arrangerades på olika orter runt
+            om i landet under flera års tid. De teman som behandlades under kurserna återspeglade i
+            stor utsträckning aktuella, samtida frågor rörande krig, konflikter och fredsfrämjande
+            arbete. Föreläsarna var såväl svenska som internationella och bland de återkommande
+            svenska föreäsarna återfanns medlemmarna Elin Wägner, <ref
+               target="https://sv.wikipedia.org/wiki/Marika_Stiernstedt">Marika Stiernstedt</ref>
+            samt <ref target="https://sv.wikipedia.org/wiki/Selma_Lagerl%C3%B6f">Selma
+               Lagerlöf</ref>.</p>
+         <p>Digitaliseringsprojektet har genomförts i samarbete med <ref
+               target="https://www2.ub.gu.se/kvinn/">KvinnSam</ref>. KvinnSam är ett nationellt
+            bibliotek för genusforskning vid Göteborgs universitet. KvinnSams verksamhet består av
+            ett specialbibliotek, ett kvinnohistoriskt arkiv, digitala resurser samt personal med
+            särskild kompetens inom genusforskning och kvinnohistoria. De fyra affischerna som
+            digitaliserats inom ramen för detta projket utgör en del av IKFF:s arkiv som ombesörjs
+            av KvinnSam.</p>
+      </body>
+   </text>
+</TEI>
