@@ -6,54 +6,117 @@
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title>Upplysningskurs Stockholm 7-13 januari 1926</title>
+            <title>Digitaliserad version av Kvinnoförbundet för Fred och Frihets affisch som distrubierades
+               i samband med förbundets Upplysningskurs i Stockholm 7-13 januari 1926</title>
             <author corresp="https://ikff.se/">Internationella Kvinnoförbundet för Fred och
                Frihet</author>
-            <principal></principal>
+            <principal>Ellinor Sjöblom</principal>
          </titleStmt>
          <publicationStmt>
-            <publisher> Oskar Eklunds Boktryckeri, Stockholm</publisher>
-            <date>1926</date>
+            <publisher>Borås Högskola</publisher>
+            <authority>Gruppen</authority>
+            <date when="2025-05-28">2025</date>
             <availability>
+               <p>Vid publicering skall  ...</p>
                <licence target="https://creativecommons.org/licenses/by-sa/4.0/">
-                  <p> Transcription distributed under a CC-BY-SA 4.0 license. </p>
+                  <p>Affischen är författad av Internationella Kvinnoförbundet för Fred och Frihet
+                     (1931). Transcription distributed under a CC-BY-SA 4.0 license. </p>
                </licence>
             </availability>
          </publicationStmt>
          <sourceDesc>
-            <p>Affischen marknadsför Internationella Kvinnoförbundets upplysningskurs som
+            <bibl>
+               <title>Upplysningskurs i Stockholm 7-13 januari 1926</title>
+               <author>Internationella Kvinnoförbundet för Fred och Frihet</author>
+               <pubPlace>Stockholm</pubPlace>
+               <publisher>Oskar Eklunds boktryckeri.</publisher>
+               <date when="1926">1926</date>
+               <note>Affischen marknadsför Internationella Kvinnoförbundets upplysningskurs som
                   hölls i Stockholm den 7-13 januari 1926.
                   Affischen är framtagen av Internationella Kvinnoförbundet för Fred och Frihet och
                   utgör en del av föreningens arkiv vid Humnanistiska biblioteket i Göteborg. Ansvarig
                   för Internationella Kvinnoförbundets arkiv vid Humanistisska biblioteket är
-                  KvinnSam.</p>
+                  KvinnSam.</note>
+            </bibl>
          </sourceDesc>
       </fileDesc>
+      <encodingDesc>
+         <p>Texten har extraherats genom OCR, optisk teckenigenkänning. Kodningen omfattar såväl textens lexikala information såväl som layout där
+            radbrytningar, halvrader, fetstil, understrykningar samt skillnader i textstorlek kodats. De olika typsnitt och teckekstorlekar som förekommer
+            har dock inte beaktats</p>
+      </encodingDesc>
       <profileDesc>
          <langUsage>
             <language ident="swe">Swedish</language>
          </langUsage>
          <textDesc>
-            <channel>print</channel>
-            <constitution>single</constitution>
-            <derivation>original</derivation>
-            <domain type="publicity">poster</domain>
-            <factuality>factual</factuality>
-            <interaction type="complete"/>
-            <preparedness>prepared</preparedness>
-            <purpose>informative</purpose>
+            <channel>"tryck"</channel>
+            <constitution>"affisch"</constitution>
+            <derivation>"primärkälla!</derivation>
+            <domain type="publicity">"publik"</domain>
+            <factuality>"faktuell"</factuality>
+            <interaction type="none">"envägskommunikation</interaction>
+            <preparedness>"planerad"</preparedness>
+            <purpose>"informera"</purpose>
          </textDesc>
+         <textClass>
+            <keywords scheme="https://id.kb.se/term/sao/">
+               <list>
+                  <item><ref target="https://id.kb.se/term/gmgpc/swe/Textaffischer"
+                        >textaffischer</ref>
+                  </item>
+                  <item><ref target="https://id.kb.se/term/sao/Affischer">affischer</ref>
+                  </item>
+                  <item><ref target="https://id.kb.se/term/sao/Kvinnof%C3%B6rbund"
+                        >kvinnoförbund</ref>
+                  </item>
+                  <item><ref target="https://id.kb.se/term/sao/Kvinnof%C3%B6reningar"
+                        >kvinnoföreningar</ref>
+                  </item>
+                  <item><ref target="https://id.kb.se/term/sao/Kvinnor%C3%B6relsen--historia"
+                        >kvinnorörelsen--historia</ref>
+                  </item>
+                  <item><ref target="https://id.kb.se/term/sao/Kvinnor%C3%B6relsen"
+                        >kvinnorörelsen</ref>
+                  </item>
+                  <item><ref target="https://id.kb.se/term/sao/Kvinnohistoria">kvinnohistoria</ref>
+                  </item>
+                  <item><ref target="https://id.kb.se/term/sao/Kvinnor%20och%20fred">kvinnor och
+                        fred</ref>
+                  </item>
+                  <item><ref target="https://id.kb.se/term/sao/Fredsr%C3%B6relser"
+                        >fredsrörelser</ref>
+                  </item>
+                  <item><ref target="https://id.kb.se/term/sao/Fredsbyggande"
+                        >fredsbyggande</ref>
+                  </item>
+                  <item><ref target="https://id.kb.se/term/sao/Frivilligorganisationer"
+                        >frivilligorganisationer</ref>
+                  </item>
+                  <item><ref target="https://id.kb.se/term/sao/V%C3%A4rldsorganisation"
+                        >världsorganisation</ref>
+                  </item>
+                  <item><ref target="https://id.kb.se/term/sao/Internationella%20organisationer"
+                        >internationella organisationer</ref>
+                  </item>
+               </list>
+            </keywords>
+         </textClass>
       </profileDesc>
+      <revisionDesc>
+         <change when="2025-05-28">Originalversion upprättad</change>
+      </revisionDesc>
    </teiHeader>
    <facsimile>
-      <surface xml:id="IMG_1679">
+      <surface xml:id="postit01">
          <figure>
-            <label>Upplysningskurs Stockholm 7-13 jan 1926</label>
+            <label>Upplysningskurs Stockholm den 7-13 januari 1926</label>
             <figDesc>
                Ett fotografi av en affisch framtagen Internationella Kvinnoförbundets
                som marknadsförde deras upplysningskurs i Stockholm 7-13 januari 1926.
             </figDesc>
-            <graphic xml:id="IMG_1679.TIFF" url="/Users/elli/Documents/GitHub/Digitaliseringsprojekt/docs/assets/img/imgs%20TIFF/IMG_1679.TIFF"/>
+            <graphic xml:id="postit01_full" url="assets/img/documents/postit01.png"/>
+            <graphic xml:id="postit01_thumb" url="assets/img/documents/postit01_thumb.png"/>
          </figure>
       </surface>
    </facsimile>
