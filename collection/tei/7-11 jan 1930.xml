@@ -12,9 +12,14 @@
             <author corresp="https://ikff.se/">Internationella Kvinnoförbundet för Fred och
                Frihet</author>
             <respStmt>
-               <resp>OCR och kodning</resp>
+               <resp>Genomfört OCR och kodning</resp>
                <persName><forename>Ellinor</forename><surname>Sjöblom</surname></persName>
                <persName><forename>Veronica</forename><surname>Zander</surname></persName>
+            </respStmt>
+            <respStmt>
+               <resp>Granskat OCR och kodning</resp>
+               <persName><forename>Nanna</forename><surname>Stig Meyer</surname></persName>
+               <persName><forename>Kateryna</forename><surname>Virko</surname></persName>
             </respStmt>
          </titleStmt>
          <publicationStmt>
@@ -32,6 +37,24 @@
             </availability>
          </publicationStmt>
          <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository>KvinnSam, Humanistiska bilioteket, Göteborg</repository>
+                  <collection>Internationella Kvinnoföreningen för Fred och Frihet</collection>
+               </msIdentifier>
+               <physDesc>
+                  <objectDesc>
+                     <supportDesc>
+                        <support>Affisch, tryckt på papper</support>
+                        <extent>
+                           <measure unit="cm" quantity="58" type="height"/>
+                           <measure unit="cm" quantity="34" type="width"/>
+                        </extent>
+                        <condition>Inga synliga skador på affischen noteras.</condition>
+                     </supportDesc>
+                  </objectDesc>
+               </physDesc>
+            </msDesc>
             <bibl>
                <title>Sjätte Upplysningskursen</title>
                <author>Internationella Kvinnoförbundet för Fred och Frihet</author>
