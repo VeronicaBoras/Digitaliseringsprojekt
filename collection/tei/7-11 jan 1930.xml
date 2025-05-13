@@ -690,20 +690,19 @@
       </revisionDesc>
    </teiHeader>
    <facsimile>
-      <surface xml:id="Poster_1_final_IMG_1653_6_">
+      <surface xml:id="affisch1930">
          <figure>
             <label>Upplysningskurs i Stockholm-Uppsala den 7—11 januari 1930</label>
             <figDesc> Ett fotografi som föreställer den affisch Internationella Kvinnoförundet tog
                fram för att marknadsföra förbundets sjätte upplysningskurs som hölls i
                Stockholm-Uppsala den 7—11 januari 1930. </figDesc>
-            <graphic xml:id="Poster_1_final_IMG_1653_6_web.png"
-               url="Poster_1_final_IMG_1653_6_web.png"/>
+            <graphic xml:id="poster3" url="images/Poster_1_final_IMG_1653_6_web.png"/>
          </figure>
       </surface>
    </facsimile>
    <text>
       <body>
-         <head>Sjätte upplysningskursen 1930</head>
+         <head></head>
          <div type="section">
             <head rend="align(center)"><orgName><hi rend="underscore"><hi rend="bold"
                         >Internationella Kvinnoförbundet för Fred och
@@ -718,15 +717,15 @@
                   <date from="1930-01-07" to="1930-01-11">den 7—11 januari 1930</date></hi></p>
          </div>
          <div type="section">
-            <p><hi rend="bold"><placeName>Stockholm</placeName><date from="1930-01-07"
-                     to="1930-01-09">(den 7—9 jan.)</date><placeName>Läkaresällskapets stora
+            <p><hi rend="bold"><placeName>Stockholm</placeName> <date from="1930-01-07"
+                     to="1930-01-09">(den 7—9 jan.)</date> <placeName>Läkaresällskapets stora
                      sal</placeName>,<lb/>
                   <seg type="address">Klara Östra Kyrkogata 10,<lb/></seg> såvitt ej annat nedan
                   angives.<lb/> Föredrag <time from="10:00:00" to="13:00:00"> kl. 10 f. m.— 1 e. m.
                   </time> samt <time from="14:30:00" to="17:00:00">kl. 2,30-5 e. m.</time></hi></p>
          </div>
          <div type="section">
-            <p rend="align(center)"><hi rend="bold"><placeName>Uppsala</placeName><date
+            <p rend="align(center)"><hi rend="bold"><placeName>Uppsala</placeName> <date
                      from="1930-01-10" to="1930-01-11">(den 10—11 jan.)</date>
                   <placeName>Universitetet, Lärosal X</placeName>.</hi></p>
          </div>
@@ -737,7 +736,7 @@
             <list type="ordered">
                <item>Musik av Damkvartetten. <lb/>
                </item>
-               <item>Minnen och gestalter från Freds och Frihets tio första år,<ref
+               <item>Minnen och gestalter från Freds och Frihets tio första år, <ref
                      target="https://sv.wikipedia.org/wiki/Matilda_Widegren">fröken Matilda
                      Widegren</ref>.<lb/>
                </item>
@@ -840,8 +839,8 @@
                   <time when="10:00:00"> kl. 10 f. m.</time>
                </hi></head>
             <list type="ordered">
-               <item>Vetenskap och fred, professor <ref
-                     target="https://sv.wikipedia.org/wiki/Robert_B%C3%A1r%C3%A1ny">Robert
+               <item>Vetenskap och fred, <ref
+                     target="https://sv.wikipedia.org/wiki/Robert_B%C3%A1r%C3%A1ny">professor Robert
                      Bárány</ref>.<lb/>
                </item>
                <item>Delegationen till Kina 1927-1928, <ref
@@ -862,6 +861,7 @@
                      Andræ</ref>. </item>
             </list>
          </div>
+         <lb></lb>
          <div type="section">
             <p><hi rend="bold">Anmälningar mottagas <time from="12:00:00" to="16:00:00">kl. 12-4 e.
                      m.</time> à Internationella Kvinnoförbundets för Fred och Frihet byrå,<seg
@@ -880,7 +880,7 @@
             </p>
          </div>
          <div type="section">
-            <p><hi rend="small"><placeName>Stockholm</placeName><orgName>Oskar Eklunds
+            <p><hi rend="small"><placeName>Stockholm</placeName> <orgName>Oskar Eklunds
                      Boktryckeri</orgName>,<date>1929</date></hi>
             </p>
          </div>
